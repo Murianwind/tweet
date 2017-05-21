@@ -1,6 +1,594 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sat May 20 23:56:50 +0000 2017",
+		"id": 866080303844008000,
+		"id_str": "866080303844007936",
+		"text": "RT @michaelbolton: @jamesmarcusbach @HexaJustin My offer: good testing quickly and reliably informs its clients about risks and problems by…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michaelbolton",
+					"name": "Michael Bolton",
+					"id": 15817109,
+					"id_str": "15817109",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "jamesmarcusbach",
+					"name": "James Marcus Bach",
+					"id": 20374904,
+					"id_str": "20374904",
+					"indices": [
+						19,
+						35
+					]
+				},
+				{
+					"screen_name": "HexaJustin",
+					"name": "Justin Hunter",
+					"id": 849626555076759600,
+					"id_str": "849626555076759552",
+					"indices": [
+						36,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1879,
+			"friends_count": 273,
+			"listed_count": 177,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 108,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31277,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 20 21:55:53 +0000 2017",
+			"id": 866049868736933900,
+			"id_str": "866049868736933889",
+			"text": "@jamesmarcusbach @HexaJustin My offer: good testing quickly and reliably informs its clients about risks and proble… https://t.co/PV0O4RpmrK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jamesmarcusbach",
+						"name": "James Marcus Bach",
+						"id": 20374904,
+						"id_str": "20374904",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"screen_name": "HexaJustin",
+						"name": "Justin Hunter",
+						"id": 849626555076759600,
+						"id_str": "849626555076759552",
+						"indices": [
+							17,
+							28
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PV0O4RpmrK",
+						"expanded_url": "https://twitter.com/i/web/status/866049868736933889",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 865459423770140700,
+			"in_reply_to_status_id_str": "865459423770140680",
+			"in_reply_to_user_id": 20374904,
+			"in_reply_to_user_id_str": "20374904",
+			"in_reply_to_screen_name": "jamesmarcusbach",
+			"user": {
+				"id": 15817109,
+				"id_str": "15817109",
+				"name": "Michael Bolton",
+				"screen_name": "michaelbolton",
+				"location": "Earth, approximately",
+				"description": "I solve testing problems that other people can't solve, and I teach people how they can do it too.",
+				"url": "http://t.co/ESQSRVvxUR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ESQSRVvxUR",
+								"expanded_url": "http://www.developsense.com",
+								"display_url": "developsense.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16369,
+				"friends_count": 252,
+				"listed_count": 784,
+				"created_at": "Tue Aug 12 01:53:17 +0000 2008",
+				"favourites_count": 90,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 60422,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/838123882846556160/1NrJF1eu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/838123882846556160/1NrJF1eu_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 20 23:56:02 +0000 2017",
+		"id": 866080105470111700,
+		"id_str": "866080105470111744",
+		"text": "RT @michaelbolton: @jamesmarcusbach @HexaJustin Good testing emphasizes exploration, experimentation, discovery, and learning over confirma…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michaelbolton",
+					"name": "Michael Bolton",
+					"id": 15817109,
+					"id_str": "15817109",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "jamesmarcusbach",
+					"name": "James Marcus Bach",
+					"id": 20374904,
+					"id_str": "20374904",
+					"indices": [
+						19,
+						35
+					]
+				},
+				{
+					"screen_name": "HexaJustin",
+					"name": "Justin Hunter",
+					"id": 849626555076759600,
+					"id_str": "849626555076759552",
+					"indices": [
+						36,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1879,
+			"friends_count": 273,
+			"listed_count": 177,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 108,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31277,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 20 21:58:42 +0000 2017",
+			"id": 866050578031489000,
+			"id_str": "866050578031489024",
+			"text": "@jamesmarcusbach @HexaJustin Good testing emphasizes exploration, experimentation, discovery, and learning over con… https://t.co/jPXJJFn3Ip",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jamesmarcusbach",
+						"name": "James Marcus Bach",
+						"id": 20374904,
+						"id_str": "20374904",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"screen_name": "HexaJustin",
+						"name": "Justin Hunter",
+						"id": 849626555076759600,
+						"id_str": "849626555076759552",
+						"indices": [
+							17,
+							28
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jPXJJFn3Ip",
+						"expanded_url": "https://twitter.com/i/web/status/866050578031489024",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 866049868736933900,
+			"in_reply_to_status_id_str": "866049868736933889",
+			"in_reply_to_user_id": 15817109,
+			"in_reply_to_user_id_str": "15817109",
+			"in_reply_to_screen_name": "michaelbolton",
+			"user": {
+				"id": 15817109,
+				"id_str": "15817109",
+				"name": "Michael Bolton",
+				"screen_name": "michaelbolton",
+				"location": "Earth, approximately",
+				"description": "I solve testing problems that other people can't solve, and I teach people how they can do it too.",
+				"url": "http://t.co/ESQSRVvxUR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ESQSRVvxUR",
+								"expanded_url": "http://www.developsense.com",
+								"display_url": "developsense.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16369,
+				"friends_count": 252,
+				"listed_count": 784,
+				"created_at": "Tue Aug 12 01:53:17 +0000 2008",
+				"favourites_count": 90,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 60422,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/838123882846556160/1NrJF1eu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/838123882846556160/1NrJF1eu_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 10,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 20 05:05:18 +0000 2017",
+		"id": 865795546992312300,
+		"id_str": "865795546992312320",
+		"text": "날씨가 좋으니 어린이대공원에 커플이 넘쳐난다.. #커플지옥솔로천국 @ 어린이대공원 https://t.co/EQVz9X7jn8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "커플지옥솔로천국",
+					"indices": [
+						27,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EQVz9X7jn8",
+					"expanded_url": "https://www.instagram.com/p/BUTUFwDFG7EX2qK0GIzNg-GrwsoyiJ7zbA8L140/",
+					"display_url": "instagram.com/p/BUTUFwDFG7EX…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1879,
+			"friends_count": 273,
+			"listed_count": 177,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 108,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31277,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri May 19 22:29:43 +0000 2017",
 		"id": 865695992481325000,
 		"id_str": "865695992481325057",
