@@ -1,6 +1,668 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 29 23:12:25 +0000 2017",
+		"id": 880564643109904400,
+		"id_str": "880564643109904384",
+		"text": "RT @katrina_tester: \"Never pretend you know what you don’t know. Always be ready to ask for help in learning new things.\" @JerryWeinberg ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katrina_tester",
+					"name": "Katrina Clokie",
+					"id": 1572082038,
+					"id_str": "1572082038",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "JerryWeinberg",
+					"name": "Gerald Weinberg",
+					"id": 41628296,
+					"id_str": "41628296",
+					"indices": [
+						122,
+						136
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1876,
+			"friends_count": 282,
+			"listed_count": 176,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 171,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31338,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 29 19:31:51 +0000 2017",
+			"id": 880509136516952000,
+			"id_str": "880509136516952065",
+			"text": "\"Never pretend you know what you don’t know. Always be ready to ask for help in learning new things.\" @JerryWeinberg https://t.co/pK6aGkVkRO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JerryWeinberg",
+						"name": "Gerald Weinberg",
+						"id": 41628296,
+						"id_str": "41628296",
+						"indices": [
+							102,
+							116
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pK6aGkVkRO",
+						"expanded_url": "http://secretsofconsulting.blogspot.com.au/2017/06/improving-as-agile-developer.html?_sm_au_=iQV1BvHM5kWvJF5B",
+						"display_url": "secretsofconsulting.blogspot.com.au/2017/06/improv…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1572082038,
+				"id_str": "1572082038",
+				"name": "Katrina Clokie",
+				"screen_name": "katrina_tester",
+				"location": "Wellington, New Zealand",
+				"description": "Test Practice Manager | Editor @TestingTrapeze | Co-Founder @WeTestNZ | International Speaker | Writer https://t.co/MensMzCGPj",
+				"url": "http://t.co/MaYwGvvUmc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MaYwGvvUmc",
+								"expanded_url": "http://katrinatester.blogspot.co.nz/",
+								"display_url": "katrinatester.blogspot.co.nz",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MensMzCGPj",
+								"expanded_url": "https://leanpub.com/testingindevops",
+								"display_url": "leanpub.com/testingindevops",
+								"indices": [
+									103,
+									126
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4121,
+				"friends_count": 383,
+				"listed_count": 218,
+				"created_at": "Sat Jul 06 06:11:26 +0000 2013",
+				"favourites_count": 7548,
+				"utc_offset": 43200,
+				"time_zone": "Wellington",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4590,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "090909",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000164460918/ns62_5yj.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000164460918/ns62_5yj.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/585624785302003713/IwRMMxVR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/585624785302003713/IwRMMxVR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1572082038/1441869222",
+				"profile_link_color": "666699",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 8,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 29 22:17:15 +0000 2017",
+		"id": 880550760823406600,
+		"id_str": "880550760823406592",
+		"text": "RT @mikewcohn: Sample format for a spreadsheet-based product backlog https://t.co/VXXYwl2zDn #throwbackthursday #agile https://t.co/u0OWAKI…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "throwbackthursday",
+					"indices": [
+						93,
+						111
+					]
+				},
+				{
+					"text": "agile",
+					"indices": [
+						112,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mikewcohn",
+					"name": "Mike Cohn",
+					"id": 55573320,
+					"id_str": "55573320",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VXXYwl2zDn",
+					"expanded_url": "https://www.mountaingoatsoftware.com/blog/a-sample-format-for-a-spreadsheet-based-product-backlog",
+					"display_url": "mountaingoatsoftware.com/blog/a-sample-…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1876,
+			"friends_count": 282,
+			"listed_count": 176,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 171,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31338,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 29 16:01:58 +0000 2017",
+			"id": 880456316031991800,
+			"id_str": "880456316031991809",
+			"text": "Sample format for a spreadsheet-based product backlog https://t.co/VXXYwl2zDn #throwbackthursday #agile https://t.co/u0OWAKICCY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "throwbackthursday",
+						"indices": [
+							78,
+							96
+						]
+					},
+					{
+						"text": "agile",
+						"indices": [
+							97,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VXXYwl2zDn",
+						"expanded_url": "https://www.mountaingoatsoftware.com/blog/a-sample-format-for-a-spreadsheet-based-product-backlog",
+						"display_url": "mountaingoatsoftware.com/blog/a-sample-…",
+						"indices": [
+							54,
+							77
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 880456313314189300,
+						"id_str": "880456313314189313",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/DDgCWiNXoAEU3ZY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDgCWiNXoAEU3ZY.jpg",
+						"url": "https://t.co/u0OWAKICCY",
+						"display_url": "pic.twitter.com/u0OWAKICCY",
+						"expanded_url": "https://twitter.com/mikewcohn/status/880456316031991809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 421,
+								"h": 220,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 421,
+								"h": 220,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 421,
+								"h": 220,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 880456313314189300,
+						"id_str": "880456313314189313",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/DDgCWiNXoAEU3ZY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDgCWiNXoAEU3ZY.jpg",
+						"url": "https://t.co/u0OWAKICCY",
+						"display_url": "pic.twitter.com/u0OWAKICCY",
+						"expanded_url": "https://twitter.com/mikewcohn/status/880456316031991809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 421,
+								"h": 220,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 421,
+								"h": 220,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 421,
+								"h": 220,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55573320,
+				"id_str": "55573320",
+				"name": "Mike Cohn",
+				"screen_name": "mikewcohn",
+				"location": "Lafayette, CO",
+				"description": "I'm an agile software development consultant, trainer, author and practitioner. I blog at http://t.co/klqZO1Qk9v #MGSClasses",
+				"url": "http://t.co/aYJLyQCc6c",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/aYJLyQCc6c",
+								"expanded_url": "http://www.mountaingoatsoftware.com",
+								"display_url": "mountaingoatsoftware.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/klqZO1Qk9v",
+								"expanded_url": "http://www.mountaingoatsoftware.com/blog",
+								"display_url": "mountaingoatsoftware.com/blog",
+								"indices": [
+									90,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 35086,
+				"friends_count": 206,
+				"listed_count": 1658,
+				"created_at": "Fri Jul 10 14:20:03 +0000 2009",
+				"favourites_count": 2684,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4300,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4E78A0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000017003151/575a79c3270964cfd4661b99314c360a.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000017003151/575a79c3270964cfd4661b99314c360a.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753667616317673472/mCz4R6dl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753667616317673472/mCz4R6dl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55573320/1466711125",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 16,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 29 08:02:54 +0000 2017",
+		"id": 880335755423301600,
+		"id_str": "880335755423301632",
+		"text": "STA교육센터의 알아두면 쓸모있는 신나는 세미나 https://t.co/kQYQwncUO3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kQYQwncUO3",
+					"expanded_url": "https://search.google.com/local/posts?q=STA%EA%B5%90%EC%9C%A1%EC%84%BC%ED%84%B0&ludocid=2678540094573063690&lpsid=3315283522674192296",
+					"display_url": "search.google.com/local/posts?q=…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1876,
+			"friends_count": 282,
+			"listed_count": 176,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 171,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31338,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Jun 28 17:12:54 +0000 2017",
 		"id": 880111779958800400,
 		"id_str": "880111779958800384",
