@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 05 21:03:21 +0000 2017",
+		"id": 882706488736624600,
+		"id_str": "882706488736624640",
+		"text": "RT @FrontRowAgile: Sprint zero for product owners https://t.co/c7dDvXLDAF #agile https://t.co/Rd8YJUXWxE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "agile",
+					"indices": [
+						74,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FrontRowAgile",
+					"name": "Front Row Agile",
+					"id": 1641104605,
+					"id_str": "1641104605",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/c7dDvXLDAF",
+					"expanded_url": "https://www.frontrowagile.com/blog/posts/125-sprint-zero-for-product-owners",
+					"display_url": "frontrowagile.com/blog/posts/125…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 882645492613750800,
+					"id_str": "882645492613750784",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DD_JZinXoAArUFg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DD_JZinXoAArUFg.jpg",
+					"url": "https://t.co/Rd8YJUXWxE",
+					"display_url": "pic.twitter.com/Rd8YJUXWxE",
+					"expanded_url": "https://twitter.com/FrontRowAgile/status/882645495390273536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 330,
+							"h": 220,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 330,
+							"h": 220,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 330,
+							"h": 220,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 882645495390273500,
+					"source_status_id_str": "882645495390273536",
+					"source_user_id": 1641104605,
+					"source_user_id_str": "1641104605"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 882645492613750800,
+					"id_str": "882645492613750784",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DD_JZinXoAArUFg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DD_JZinXoAArUFg.jpg",
+					"url": "https://t.co/Rd8YJUXWxE",
+					"display_url": "pic.twitter.com/Rd8YJUXWxE",
+					"expanded_url": "https://twitter.com/FrontRowAgile/status/882645495390273536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 330,
+							"h": 220,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 330,
+							"h": 220,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 330,
+							"h": 220,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 882645495390273500,
+					"source_status_id_str": "882645495390273536",
+					"source_user_id": 1641104605,
+					"source_user_id_str": "1641104605"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1878,
+			"friends_count": 282,
+			"listed_count": 176,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 177,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31347,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 05 17:00:59 +0000 2017",
+			"id": 882645495390273500,
+			"id_str": "882645495390273536",
+			"text": "Sprint zero for product owners https://t.co/c7dDvXLDAF #agile https://t.co/Rd8YJUXWxE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "agile",
+						"indices": [
+							55,
+							61
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/c7dDvXLDAF",
+						"expanded_url": "https://www.frontrowagile.com/blog/posts/125-sprint-zero-for-product-owners",
+						"display_url": "frontrowagile.com/blog/posts/125…",
+						"indices": [
+							31,
+							54
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 882645492613750800,
+						"id_str": "882645492613750784",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DD_JZinXoAArUFg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DD_JZinXoAArUFg.jpg",
+						"url": "https://t.co/Rd8YJUXWxE",
+						"display_url": "pic.twitter.com/Rd8YJUXWxE",
+						"expanded_url": "https://twitter.com/FrontRowAgile/status/882645495390273536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 330,
+								"h": 220,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 330,
+								"h": 220,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 330,
+								"h": 220,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 882645492613750800,
+						"id_str": "882645492613750784",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DD_JZinXoAArUFg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DD_JZinXoAArUFg.jpg",
+						"url": "https://t.co/Rd8YJUXWxE",
+						"display_url": "pic.twitter.com/Rd8YJUXWxE",
+						"expanded_url": "https://twitter.com/FrontRowAgile/status/882645495390273536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 330,
+								"h": 220,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 330,
+								"h": 220,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 330,
+								"h": 220,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1641104605,
+				"id_str": "1641104605",
+				"name": "Front Row Agile",
+				"screen_name": "FrontRowAgile",
+				"location": "Online ",
+				"description": "THE destination for agile online training from leading experts! Brought to you by industry leader @MikeWCohn.",
+				"url": "http://t.co/ArsYqOeLOk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ArsYqOeLOk",
+								"expanded_url": "http://www.frontrowagile.com",
+								"display_url": "frontrowagile.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1045,
+				"friends_count": 215,
+				"listed_count": 103,
+				"created_at": "Fri Aug 02 18:43:20 +0000 2013",
+				"favourites_count": 151,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1334,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000047492157/3d1377bb12a174255371045a148da144.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000047492157/3d1377bb12a174255371045a148da144.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000231443492/a80e80672ed22b53321a9ced3c27af54_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000231443492/a80e80672ed22b53321a9ced3c27af54_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1641104605/1427400967",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 11,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 04 12:27:41 +0000 2017",
 		"id": 882214327440220200,
 		"id_str": "882214327440220162",
