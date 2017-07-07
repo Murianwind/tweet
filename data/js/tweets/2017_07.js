@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Thu Jul 06 21:05:19 +0000 2017",
+		"id": 883069371861524500,
+		"id_str": "883069371861524480",
+		"text": "RT @mikewcohn: User stories, epics and themes https://t.co/Zd0jToxKIQ #throwbackthursday #agile #Scrum https://t.co/YTEu3kBnsF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "throwbackthursday",
+					"indices": [
+						70,
+						88
+					]
+				},
+				{
+					"text": "agile",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "Scrum",
+					"indices": [
+						96,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mikewcohn",
+					"name": "Mike Cohn",
+					"id": 55573320,
+					"id_str": "55573320",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Zd0jToxKIQ",
+					"expanded_url": "https://www.mountaingoatsoftware.com/blog/stories-epics-and-themes",
+					"display_url": "mountaingoatsoftware.com/blog/stories-e…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 882992994038804500,
+					"id_str": "882992994038804480",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DEEFcyTXcAA-QXK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEEFcyTXcAA-QXK.jpg",
+					"url": "https://t.co/YTEu3kBnsF",
+					"display_url": "pic.twitter.com/YTEu3kBnsF",
+					"expanded_url": "https://twitter.com/mikewcohn/status/882992997306126336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 421,
+							"h": 220,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 421,
+							"h": 220,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 421,
+							"h": 220,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 882992997306126300,
+					"source_status_id_str": "882992997306126336",
+					"source_user_id": 55573320,
+					"source_user_id_str": "55573320"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 882992994038804500,
+					"id_str": "882992994038804480",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DEEFcyTXcAA-QXK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEEFcyTXcAA-QXK.jpg",
+					"url": "https://t.co/YTEu3kBnsF",
+					"display_url": "pic.twitter.com/YTEu3kBnsF",
+					"expanded_url": "https://twitter.com/mikewcohn/status/882992997306126336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 421,
+							"h": 220,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 421,
+							"h": 220,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 421,
+							"h": 220,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 882992997306126300,
+					"source_status_id_str": "882992997306126336",
+					"source_user_id": 55573320,
+					"source_user_id_str": "55573320"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1876,
+			"friends_count": 282,
+			"listed_count": 176,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 178,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31348,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 06 16:01:50 +0000 2017",
+			"id": 882992997306126300,
+			"id_str": "882992997306126336",
+			"text": "User stories, epics and themes https://t.co/Zd0jToxKIQ #throwbackthursday #agile #Scrum https://t.co/YTEu3kBnsF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "throwbackthursday",
+						"indices": [
+							55,
+							73
+						]
+					},
+					{
+						"text": "agile",
+						"indices": [
+							74,
+							80
+						]
+					},
+					{
+						"text": "Scrum",
+						"indices": [
+							81,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Zd0jToxKIQ",
+						"expanded_url": "https://www.mountaingoatsoftware.com/blog/stories-epics-and-themes",
+						"display_url": "mountaingoatsoftware.com/blog/stories-e…",
+						"indices": [
+							31,
+							54
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 882992994038804500,
+						"id_str": "882992994038804480",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DEEFcyTXcAA-QXK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEEFcyTXcAA-QXK.jpg",
+						"url": "https://t.co/YTEu3kBnsF",
+						"display_url": "pic.twitter.com/YTEu3kBnsF",
+						"expanded_url": "https://twitter.com/mikewcohn/status/882992997306126336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 421,
+								"h": 220,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 421,
+								"h": 220,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 421,
+								"h": 220,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 882992994038804500,
+						"id_str": "882992994038804480",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DEEFcyTXcAA-QXK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEEFcyTXcAA-QXK.jpg",
+						"url": "https://t.co/YTEu3kBnsF",
+						"display_url": "pic.twitter.com/YTEu3kBnsF",
+						"expanded_url": "https://twitter.com/mikewcohn/status/882992997306126336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 421,
+								"h": 220,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 421,
+								"h": 220,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 421,
+								"h": 220,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55573320,
+				"id_str": "55573320",
+				"name": "Mike Cohn",
+				"screen_name": "mikewcohn",
+				"location": "Lafayette, CO",
+				"description": "I'm an agile software development consultant, trainer, author and practitioner. I blog at http://t.co/klqZO1Qk9v #MGSClasses",
+				"url": "http://t.co/aYJLyQCc6c",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/aYJLyQCc6c",
+								"expanded_url": "http://www.mountaingoatsoftware.com",
+								"display_url": "mountaingoatsoftware.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/klqZO1Qk9v",
+								"expanded_url": "http://www.mountaingoatsoftware.com/blog",
+								"display_url": "mountaingoatsoftware.com/blog",
+								"indices": [
+									90,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 35167,
+				"friends_count": 206,
+				"listed_count": 1658,
+				"created_at": "Fri Jul 10 14:20:03 +0000 2009",
+				"favourites_count": 2700,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4310,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4E78A0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000017003151/575a79c3270964cfd4661b99314c360a.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000017003151/575a79c3270964cfd4661b99314c360a.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753667616317673472/mCz4R6dl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753667616317673472/mCz4R6dl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55573320/1466711125",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 19,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jul 05 21:03:21 +0000 2017",
 		"id": 882706488736624600,
 		"id_str": "882706488736624640",
