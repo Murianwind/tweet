@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 09 13:30:00 +0000 2018",
+		"id": 950721317401079800,
+		"id_str": "950721317401079808",
+		"text": "RT @Management30: \"Anything can be interesting to anyone if you take the time to get to know that person\" @tweetsauce https://t.co/1UUXKyED…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Management30",
+					"name": "Management 3.0",
+					"id": 520232362,
+					"id_str": "520232362",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "tweetsauce",
+					"name": "Vsauce",
+					"id": 395477244,
+					"id_str": "395477244",
+					"indices": [
+						106,
+						117
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1843,
+			"friends_count": 282,
+			"listed_count": 173,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 452,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31593,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 13:10:07 +0000 2018",
+			"id": 950716314628382700,
+			"id_str": "950716314628382721",
+			"text": "\"Anything can be interesting to anyone if you take the time to get to know that person\" @tweetsauce https://t.co/1UUXKyEDBX by @jkriggins",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tweetsauce",
+						"name": "Vsauce",
+						"id": 395477244,
+						"id_str": "395477244",
+						"indices": [
+							88,
+							99
+						]
+					},
+					{
+						"screen_name": "jkriggins",
+						"name": "Jennifer Riggins",
+						"id": 16789906,
+						"id_str": "16789906",
+						"indices": [
+							127,
+							137
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1UUXKyEDBX",
+						"expanded_url": "http://www.happymelly.com/ted-talks-how-to-ask-better-questions/",
+						"display_url": "happymelly.com/ted-talks-how-…",
+						"indices": [
+							100,
+							123
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 520232362,
+				"id_str": "520232362",
+				"name": "Management 3.0",
+				"screen_name": "Management30",
+				"location": "",
+				"description": "#Management is too important to leave to the managers. It's everybody's business! Work Together Learn Together. #m30workout #leadership #pm #agile #hr #lean",
+				"url": "https://t.co/W7TZedCWw4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W7TZedCWw4",
+								"expanded_url": "http://www.management30.com/workouts/",
+								"display_url": "management30.com/workouts/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9189,
+				"friends_count": 467,
+				"listed_count": 474,
+				"created_at": "Sat Mar 10 08:59:11 +0000 2012",
+				"favourites_count": 304,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4551,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/443706216884084737/DAA4PSlg.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/443706216884084737/DAA4PSlg.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/935500664163233793/8YbmjnTU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/935500664163233793/8YbmjnTU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/520232362/1511867689",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 08 05:07:27 +0000 2018",
 		"id": 950232458275954700,
 		"id_str": "950232458275954688",
