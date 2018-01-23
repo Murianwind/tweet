@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Mon Jan 22 23:12:24 +0000 2018",
+		"id": 955578924435587100,
+		"id_str": "955578924435587072",
+		"text": "RT @Management30: #Lean #Change #Management, and massive transformations, we rely on emergency 1st https://t.co/Z6LdOb5A1n by @jasonlittle…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lean",
+					"indices": [
+						18,
+						23
+					]
+				},
+				{
+					"text": "Change",
+					"indices": [
+						24,
+						31
+					]
+				},
+				{
+					"text": "Management",
+					"indices": [
+						32,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Management30",
+					"name": "Management 3.0",
+					"id": 520232362,
+					"id_str": "520232362",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "jasonlittle",
+					"name": "jasonlittle",
+					"id": 14122195,
+					"id_str": "14122195",
+					"indices": [
+						126,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Z6LdOb5A1n",
+					"expanded_url": "http://www.happymelly.com/change-management-is-dead/",
+					"display_url": "happymelly.com/change-managem…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1839,
+			"friends_count": 281,
+			"listed_count": 173,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 475,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31629,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 22 22:45:09 +0000 2018",
+			"id": 955572070259322900,
+			"id_str": "955572070259322881",
+			"text": "#Lean #Change #Management, and massive transformations, we rely on emergency 1st https://t.co/Z6LdOb5A1n by @jasonlittle via @happy_melly",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Lean",
+						"indices": [
+							0,
+							5
+						]
+					},
+					{
+						"text": "Change",
+						"indices": [
+							6,
+							13
+						]
+					},
+					{
+						"text": "Management",
+						"indices": [
+							14,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jasonlittle",
+						"name": "jasonlittle",
+						"id": 14122195,
+						"id_str": "14122195",
+						"indices": [
+							108,
+							120
+						]
+					},
+					{
+						"screen_name": "Happy_Melly",
+						"name": "Happy Melly",
+						"id": 1355267521,
+						"id_str": "1355267521",
+						"indices": [
+							125,
+							137
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Z6LdOb5A1n",
+						"expanded_url": "http://www.happymelly.com/change-management-is-dead/",
+						"display_url": "happymelly.com/change-managem…",
+						"indices": [
+							81,
+							104
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 520232362,
+				"id_str": "520232362",
+				"name": "Management 3.0",
+				"screen_name": "Management30",
+				"location": "",
+				"description": "#Management is too important to leave to the managers. It's everybody's business! #EmployeeEngagement #Motivation #leadership #pm #agile #hr #team",
+				"url": "https://t.co/YY0y9VAXFm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YY0y9VAXFm",
+								"expanded_url": "http://www.management30.com/",
+								"display_url": "management30.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9252,
+				"friends_count": 467,
+				"listed_count": 473,
+				"created_at": "Sat Mar 10 08:59:11 +0000 2012",
+				"favourites_count": 310,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4610,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/443706216884084737/DAA4PSlg.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/443706216884084737/DAA4PSlg.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/935500664163233793/8YbmjnTU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/935500664163233793/8YbmjnTU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/520232362/1515747874",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 22 15:05:32 +0000 2018",
+		"id": 955456402658504700,
+		"id_str": "955456402658504704",
+		"text": "Using Tours to Structure Your Exploratory Testing\n\nhttps://t.co/UFIvg4VO4C",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UFIvg4VO4C",
+					"expanded_url": "http://feedproxy.google.com/~r/SQEConferences/~3/y2uOyx-WLy0/using-tours-structure-your-exploratory-testing",
+					"display_url": "feedproxy.google.com/~r/SQEConferen…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1839,
+			"friends_count": 281,
+			"listed_count": 173,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 475,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31629,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jan 20 03:41:07 +0000 2018",
 		"id": 954559388768911400,
 		"id_str": "954559388768911360",
