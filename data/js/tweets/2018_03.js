@@ -1,6 +1,628 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Wed Mar 28 17:09:40 +0000 2018",
+		"id": 979042854134673400,
+		"id_str": "979042854134673408",
+		"text": "RT @SQAleadership: Signing Off - “I’m often given a product to test, but not enough time to test it. How am I supposed to sign off on the r…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SQAleadership",
+					"name": "Steve Carlson",
+					"id": 455790430,
+					"id_str": "455790430",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1832,
+			"friends_count": 282,
+			"listed_count": 173,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 599,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31672,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 28 12:05:08 +0000 2018",
+			"id": 978966216558678000,
+			"id_str": "978966216558678016",
+			"text": "Signing Off - “I’m often given a product to test, but not enough time to test it. How am I supposed to sign off on… https://t.co/OgVH9hc6y2",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OgVH9hc6y2",
+						"expanded_url": "https://twitter.com/i/web/status/978966216558678016",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 455790430,
+				"id_str": "455790430",
+				"name": "Steve Carlson",
+				"screen_name": "SQAleadership",
+				"location": "Boston, MA",
+				"description": "Software Quality Assurance and Testing expert, focused entirely on the process of building great quality software.",
+				"url": "https://t.co/FwPjpEmRKM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FwPjpEmRKM",
+								"expanded_url": "https://www.linkedin.com/in/stephenwcarlson",
+								"display_url": "linkedin.com/in/stephenwcar…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2237,
+				"friends_count": 1269,
+				"listed_count": 69,
+				"created_at": "Thu Jan 05 14:30:39 +0000 2012",
+				"favourites_count": 168,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 698,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/477479925788573697/CiDovwLD_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/477479925788573697/CiDovwLD_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/455790430/1400503841",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 28 17:05:58 +0000 2018",
+		"id": 979041921975795700,
+		"id_str": "979041921975795712",
+		"text": "RT @Arborosa: Best ‘Software Testing Pyramid’ I have seen so far. \n\nhttps://t.co/P1nPWZYhd7\n\nRound Earth Heuristic",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Arborosa",
+					"name": "Jean-Paul",
+					"id": 257512746,
+					"id_str": "257512746",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P1nPWZYhd7",
+					"expanded_url": "https://www.dropbox.com/s/ahnmtqt4c5l1qv7/round%20earth.pdf?dl=0",
+					"display_url": "dropbox.com/s/ahnmtqt4c5l1…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1832,
+			"friends_count": 282,
+			"listed_count": 173,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 599,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31672,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 28 08:56:59 +0000 2018",
+			"id": 978918863915176000,
+			"id_str": "978918863915175936",
+			"text": "Best ‘Software Testing Pyramid’ I have seen so far. \n\nhttps://t.co/P1nPWZYhd7\n\nRound Earth Heuristic",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/P1nPWZYhd7",
+						"expanded_url": "https://www.dropbox.com/s/ahnmtqt4c5l1qv7/round%20earth.pdf?dl=0",
+						"display_url": "dropbox.com/s/ahnmtqt4c5l1…",
+						"indices": [
+							54,
+							77
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 257512746,
+				"id_str": "257512746",
+				"name": "Jean-Paul",
+				"screen_name": "Arborosa",
+				"location": "Netherlands",
+				"description": "Product Owner (Test) Automation @Rabobank\n#ContextDriven #agile #DevOps #DEWT\nTrainer, coach and software tester.\nBlog https://t.co/HMGpNplPy4",
+				"url": "https://t.co/HMGpNplPy4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HMGpNplPy4",
+								"expanded_url": "http://arborosa.org",
+								"display_url": "arborosa.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HMGpNplPy4",
+								"expanded_url": "http://arborosa.org",
+								"display_url": "arborosa.org",
+								"indices": [
+									119,
+									142
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2342,
+				"friends_count": 412,
+				"listed_count": 66,
+				"created_at": "Fri Feb 25 15:49:29 +0000 2011",
+				"favourites_count": 365,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7800,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2826754716/f2d513ff569ac17e5f856afb7633bcc2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2826754716/f2d513ff569ac17e5f856afb7633bcc2_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 25,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 28 09:52:43 +0000 2018",
+		"id": 978932889147420700,
+		"id_str": "978932889147420672",
+		"text": "우리는 느리게 성장하는 법을 배우지 못했다\n\nhttps://t.co/4xHzFMqxlB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4xHzFMqxlB",
+					"expanded_url": "http://feedproxy.google.com/~r/ppss/~3/_r0AmewxqgE/158690",
+					"display_url": "feedproxy.google.com/~r/ppss/~3/_r0…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1832,
+			"friends_count": 282,
+			"listed_count": 173,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 599,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31672,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Mar 28 02:49:31 +0000 2018",
+		"id": 978826390513397800,
+		"id_str": "978826390513397760",
+		"text": "A Big Difference Between Scrum and Lean\n\nhttps://t.co/UJifSgroAT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UJifSgroAT",
+					"expanded_url": "http://feedproxy.google.com/~r/NetObjectivesThoughts/~3/CwEgdcK7ui4/big-difference-between-scrum-and-lean",
+					"display_url": "feedproxy.google.com/~r/NetObjectiv…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1832,
+			"friends_count": 282,
+			"listed_count": 173,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 599,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31672,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486520305/rt4yjfviip00hrqevdlz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 27 14:10:54 +0000 2018",
 		"id": 978635478629998600,
 		"id_str": "978635478629998594",
