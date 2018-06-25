@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sun Jun 24 11:54:52 +0000 2018",
+		"id": 1010853763316310000,
+		"id_str": "1010853763316310016",
+		"text": "RT @doax: [국민청원]김종필씨의 무궁화대훈장을 반대합니다. https://t.co/CMrrdXbQ3k\n\n•5.16 군사반란\n•중앙정보부 부장\n•4대 부정부패 사건\n•굴욕적 한일기본조약\n•노무현•문재인 비난\n\n일생이 협잡질인 인물이 정치거목이면…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doax",
+					"name": "DoA💦",
+					"id": 23764968,
+					"id_str": "23764968",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CMrrdXbQ3k",
+					"expanded_url": "http://bit.ly/2tvv3bP",
+					"display_url": "bit.ly/2tvv3bP",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1813,
+			"friends_count": 282,
+			"listed_count": 173,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31727,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 24 10:11:49 +0000 2018",
+			"id": 1010827831549366300,
+			"id_str": "1010827831549366272",
+			"text": "[국민청원]김종필씨의 무궁화대훈장을 반대합니다. https://t.co/CMrrdXbQ3k\n\n•5.16 군사반란\n•중앙정보부 부장\n•4대 부정부패 사건\n•굴욕적 한일기본조약\n•노무현•문재인 비난\n\n일생이 협… https://t.co/g0SKJaOfIP",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CMrrdXbQ3k",
+						"expanded_url": "http://bit.ly/2tvv3bP",
+						"display_url": "bit.ly/2tvv3bP",
+						"indices": [
+							27,
+							50
+						]
+					},
+					{
+						"url": "https://t.co/g0SKJaOfIP",
+						"expanded_url": "https://twitter.com/i/web/status/1010827831549366272",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23764968,
+				"id_str": "23764968",
+				"name": "DoA💦",
+				"screen_name": "doax",
+				"location": "",
+				"description": "IT 블로거(https://t.co/AicdlxHy1c). 시국때문에 시사 블로거로 바뀜. 정확히는 시사와 사회에 관심이 많은 IT 블로거. 컴퓨터, 운영체제(https://t.co/EAFDf7dsI7), 시사, 가족, 여행, 맛집, 리뷰등과 살면서 느끼는 소소한 일상이 블로그의 주제다.",
+				"url": "https://t.co/hvJS2dEeHo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hvJS2dEeHo",
+								"expanded_url": "http://offree.net/",
+								"display_url": "offree.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AicdlxHy1c",
+								"expanded_url": "http://offree.net",
+								"display_url": "offree.net",
+								"indices": [
+									7,
+									30
+								]
+							},
+							{
+								"url": "https://t.co/EAFDf7dsI7",
+								"expanded_url": "http://qaos.com",
+								"display_url": "qaos.com",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 45286,
+				"friends_count": 22088,
+				"listed_count": 2541,
+				"created_at": "Wed Mar 11 13:51:28 +0000 2009",
+				"favourites_count": 686,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 52146,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/903476164634619904/rLFCLb78_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/903476164634619904/rLFCLb78_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23764968/1523690254",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "88AAC5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 7,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jun 23 16:49:36 +0000 2018",
 		"id": 1010565548973834200,
 		"id_str": "1010565548973834240",
