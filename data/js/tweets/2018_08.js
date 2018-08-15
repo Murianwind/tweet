@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Tue Aug 14 07:25:43 +0000 2018",
+		"id": 1029267810097160200,
+		"id_str": "1029267810097160193",
+		"text": "지난 몇년 간 국내에 이 교육에 대한 수요를 고민했었는데.. 이제 우리도 이런 교육과정이 필요한 수준의 기술 성숙은 이루었다고 생각합니다. 정말로 정말로 많은 분들이 함께 해주셨으면 좋겠습니다. \n지금 신청… https://t.co/q6gCLny5A7",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q6gCLny5A7",
+					"expanded_url": "https://twitter.com/i/web/status/1029267810097160193",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1029267808675229700,
+		"in_reply_to_status_id_str": "1029267808675229696",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1803,
+			"friends_count": 283,
+			"listed_count": 174,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31809,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Aug 14 07:25:43 +0000 2018",
+		"id": 1029267808675229700,
+		"id_str": "1029267808675229696",
+		"text": "지난 3년간 준비해온 ISTQB Model Based Tester 교육을 다음 달 국내 처음으로 진행합니다. 많은 분들과 교육에서 뵙고 싶습니다. 개발자, 아키텍처와 함께 한단계 더 높은 테스트 설계를 진행… https://t.co/SkLO7vH6Xe",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SkLO7vH6Xe",
+					"expanded_url": "https://twitter.com/i/web/status/1029267808675229696",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1803,
+			"friends_count": 283,
+			"listed_count": 174,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31809,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Aug 14 05:31:17 +0000 2018",
+		"id": 1029239010953056300,
+		"id_str": "1029239010953056256",
+		"text": "칸막이 없는 사무실은 좋지 않다\n\nhttps://t.co/cQGb5bnjcn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cQGb5bnjcn",
+					"expanded_url": "http://feedproxy.google.com/~r/ppss/~3/ZbAFx2SIs6k/170491",
+					"display_url": "feedproxy.google.com/~r/ppss/~3/ZbA…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1803,
+			"friends_count": 283,
+			"listed_count": 174,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31809,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Aug 14 01:57:35 +0000 2018",
+		"id": 1029185232304361500,
+		"id_str": "1029185232304361472",
+		"text": "자문 자답.. 파일명이 한글이면 업로드가 안되는군용.. 홀홀홀.. ㅡ.ㅡ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1029180636014174200,
+		"in_reply_to_status_id_str": "1029180636014174208",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1803,
+			"friends_count": 283,
+			"listed_count": 174,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31809,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Aug 14 01:39:19 +0000 2018",
+		"id": 1029180636014174200,
+		"id_str": "1029180636014174208",
+		"text": "슬라이드쉐어에 2MB도 안되는 PDF 파일 업로드가 계속해서 실패하는 이유가 뭘까요? 혹시 해결책 아시는 분 계신가요?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1803,
+			"friends_count": 283,
+			"listed_count": 174,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31809,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Aug 13 09:18:47 +0000 2018",
 		"id": 1028933877920804900,
 		"id_str": "1028933877920804864",
