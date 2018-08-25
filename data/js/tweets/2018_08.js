@@ -1,6 +1,95 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 24 04:42:57 +0000 2018",
+		"id": 1032850725691318300,
+		"id_str": "1032850725691318272",
+		"text": "에듀카 자동차 보험을 갱신하는데.. 차로이탈방지, 전방충돌방지 할인 특약을 가입하려고 했더니.. 내 차는 경차라서 안된답니다.. 경차 무시하나요.. 다른 보험도 그런가요? 아.. 뭔가 억울합니다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1713,
+			"friends_count": 283,
+			"listed_count": 174,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31836,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Aug 22 10:26:05 +0000 2018",
 		"id": 1032212304350175200,
 		"id_str": "1032212304350175234",
