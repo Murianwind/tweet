@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 18 11:33:23 +0000 2018",
+		"id": 1052885348802420700,
+		"id_str": "1052885348802420738",
+		"full_text": "이명박과 박근혜도 촛불 들고 시위한 적이 있습니다.\n2005년 사학법 개정 반대 시위에서였죠.\n사립유치원 원장들의 세금 도둑질을 부추긴 세력이, 지금의 자한당입니다.\n사립유치원 원장들과 연대책임을 져야 할 정치세력도, 지금의 자한당입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155742974,
+			"id_str": "155742974",
+			"name": "전우용",
+			"screen_name": "histopian",
+			"location": "Seoul, Korea",
+			"description": "억울한 희생이 없는 시대를 기원합니다. 욕설 없는 청정 타임라인을 지향합니다. 지나치게 무식하거나 무례한 자, 글에 저질 인성을 드러내는 자들은 블록합니다. 조선일보 및 그 계열사들의 전문 또는 발췌 인용을 엄금합니다.",
+			"url": "https://t.co/C3UIKDOm7S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C3UIKDOm7S",
+							"expanded_url": "http://koreantweeters.com/histopian",
+							"display_url": "koreantweeters.com/histopian",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468898,
+			"friends_count": 486,
+			"listed_count": 2636,
+			"created_at": "Tue Jun 15 00:04:50 +0000 2010",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16567,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "15122D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998185095864315904/OKf6S2ik_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998185095864315904/OKf6S2ik_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155742974/1526820915",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FDD1AE",
+			"profile_sidebar_fill_color": "CC8068",
+			"profile_text_color": "90716E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1070,
+		"favorite_count": 1136,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이명박과 박근혜도 촛불 들고 시위한 적이 있습니다.\n2005년 사학법 개정 반대 시위에서였죠.\n사립유치원 원장들의 세금 도둑질을 부추긴 세력이, 지금의 자한당입니다.\n사립유치원 원장들과 연대책임을 져야 할 정치세력도, 지금의 자한당입니다."
+	},
+	{
 		"created_at": "Wed Oct 17 07:46:28 +0000 2018",
 		"id": 1052465855135649800,
 		"id_str": "1052465855135649794",
