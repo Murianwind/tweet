@@ -1,6 +1,118 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 15 21:52:42 +0000 2018",
+		"id": 1063188065764573200,
+		"id_str": "1063188065764573184",
+		"full_text": "지난 50년 동안 우리는 야생동물의 60%를 죽여 없앴습니다! 지구의 50%를 보호구역으로 만드는 담대한 국제 협약을 통해, 대멸종의 위기를 극복하자는 과학자들의 목소리에 힘을 보태 주세요. @EgyptCOP14 #Biodiversity2020 https://t.co/uVLCnf5qjs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Biodiversity2020",
+					"indices": [
+						119,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EgyptCOP14",
+					"name": "UN COP14 - Egypt 🇪🇬",
+					"id": 1042465063922266100,
+					"id_str": "1042465063922266113",
+					"indices": [
+						107,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uVLCnf5qjs",
+					"expanded_url": "https://secure.avaaz.org/campaign/kr/protect_nature_cbd_2018_loc/?wwWBNab",
+					"display_url": "secure.avaaz.org/campaign/kr/pr…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14044302,
+			"id_str": "14044302",
+			"name": "이나무🌲",
+			"screen_name": "enamu",
+			"location": "서울",
+			"description": "UX design expert. Educator. Father of two. Three words I value the most: Curiosity, Diversity, Empathy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4378,
+			"friends_count": 379,
+			"listed_count": 300,
+			"created_at": "Wed Feb 27 02:49:23 +0000 2008",
+			"favourites_count": 7142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15083,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8AB8A8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/473232703597199360/vdyaTIR5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/473232703597199360/vdyaTIR5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14044302/1532402231",
+			"profile_link_color": "30496B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C6CCA5",
+			"profile_text_color": "4F433B",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난 50년 동안 우리는 야생동물의 60%를 죽여 없앴습니다! 지구의 50%를 보호구역으로 만드는 담대한 국제 협약을 통해, 대멸종의 위기를 극복하자는 과학자들의 목소리에 힘을 보태 주세요. @EgyptCOP14 #Biodiversity2020 https://t.co/uVLCnf5qjs"
+	},
+	{
 		"created_at": "Wed Nov 14 12:47:14 +0000 2018",
 		"id": 1062688407162253300,
 		"id_str": "1062688407162253312",
