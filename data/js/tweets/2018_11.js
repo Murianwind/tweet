@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 25 06:50:38 +0000 2018",
+		"id": 1066584932397408300,
+		"id_str": "1066584932397408256",
+		"full_text": "짬뽕 만들다가 만들어 본 호박전.. 굽는 건 아내님이.. 그나저나 손이 많이 가네.. 다음에는 가지전을.. https://t.co/Nc9zYjUqs1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1066584914089263100,
+					"id_str": "1066584914089263104",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/Ds1FVA8UwAAuYso.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ds1FVA8UwAAuYso.jpg",
+					"url": "https://t.co/Nc9zYjUqs1",
+					"display_url": "pic.twitter.com/Nc9zYjUqs1",
+					"expanded_url": "https://twitter.com/murianwind/status/1066584932397408256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2047,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1066584914089263100,
+					"id_str": "1066584914089263104",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/Ds1FVA8UwAAuYso.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ds1FVA8UwAAuYso.jpg",
+					"url": "https://t.co/Nc9zYjUqs1",
+					"display_url": "pic.twitter.com/Nc9zYjUqs1",
+					"expanded_url": "https://twitter.com/murianwind/status/1066584932397408256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2047,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1694,
+			"friends_count": 280,
+			"listed_count": 175,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31938,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "짬뽕 만들다가 만들어 본 호박전.. 굽는 건 아내님이.. 그나저나 손이 많이 가네.. 다음에는 가지전을.. https://t.co/Nc9zYjUqs1"
+	},
+	{
+		"created_at": "Sat Nov 24 13:49:37 +0000 2018",
+		"id": 1066327985173737500,
+		"id_str": "1066327985173737472",
+		"full_text": "I had heard about \"learning releases\" from @Ardita_K &amp; @janetgregoryca , so glad to see this post from @Ardita_K about those and \"earning releases\" - so much simpler than \"MVP\" https://t.co/lelHDdsAMp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ardita_K",
+					"name": "Canbanian",
+					"id": 615660367,
+					"id_str": "615660367",
+					"indices": [
+						43,
+						52
+					]
+				},
+				{
+					"screen_name": "janetgregoryca",
+					"name": "Janet Gregory",
+					"id": 16692137,
+					"id_str": "16692137",
+					"indices": [
+						59,
+						74
+					]
+				},
+				{
+					"screen_name": "Ardita_K",
+					"name": "Canbanian",
+					"id": 615660367,
+					"id_str": "615660367",
+					"indices": [
+						107,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lelHDdsAMp",
+					"expanded_url": "https://medium.com/@Ardita_K/the-learning-release-70374d2450b3",
+					"display_url": "medium.com/@Ardita_K/the-…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15171615,
+			"id_str": "15171615",
+			"name": "lisacrispin",
+			"screen_name": "lisacrispin",
+			"location": "Charlotte, VT!",
+			"description": "Testing advocate at mabl, https://t.co/KDbFTkGIu8 agile testing training, co-author of _Agile Testing_ and _More Agile Testing. Pronouns: she/her",
+			"url": "https://t.co/hrEoqFKlVh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hrEoqFKlVh",
+							"expanded_url": "https://lisacrispin.com",
+							"display_url": "lisacrispin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KDbFTkGIu8",
+							"expanded_url": "http://AgileTestingFellow.com",
+							"display_url": "AgileTestingFellow.com",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15454,
+			"friends_count": 4088,
+			"listed_count": 1122,
+			"created_at": "Thu Jun 19 18:06:04 +0000 2008",
+			"favourites_count": 14249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/668495498773291008/FWCPfVae_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/668495498773291008/FWCPfVae_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15171615/1450141639",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I had heard about \"learning releases\" from @Ardita_K &amp; @janetgregoryca , so glad to see this post from @Ardita_K about those and \"earning releases\" - so much simpler than \"MVP\" https://t.co/lelHDdsAMp"
+	},
+	{
 		"created_at": "Sat Nov 24 13:49:37 +0000 2018",
 		"id": 1066327985173737500,
 		"id_str": "1066327985173737472",
