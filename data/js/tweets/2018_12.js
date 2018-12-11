@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 10 13:06:39 +0000 2018",
+		"id": 1072115376735965200,
+		"id_str": "1072115376735965185",
+		"full_text": "함께 자라기 : 제가 쓴 첫 책이 나왔습니다! https://t.co/fkiB0TLWvO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fkiB0TLWvO",
+					"expanded_url": "http://agile.egloos.com/5914591",
+					"display_url": "agile.egloos.com/5914591",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21382169,
+			"id_str": "21382169",
+			"name": "June Kim",
+			"screen_name": "cjunekim",
+			"location": "Seoul, Korea",
+			"description": "President, Agile Consulting, Founder of the Korean agile/XP community\r\n\r\nhttp://t.co/3wJqVzDuPD\r\n김창준",
+			"url": "http://t.co/pyoq7iCdYx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/pyoq7iCdYx",
+							"expanded_url": "http://agile.egloos.com",
+							"display_url": "agile.egloos.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/3wJqVzDuPD",
+							"expanded_url": "http://kr.linkedin.com/pub/june-kim/2/814/5b1",
+							"display_url": "kr.linkedin.com/pub/june-kim/2…",
+							"indices": [
+								73,
+								95
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3270,
+			"friends_count": 424,
+			"listed_count": 243,
+			"created_at": "Fri Feb 20 07:41:40 +0000 2009",
+			"favourites_count": 570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3134,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFE0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/707278247/JuneKim_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/707278247/JuneKim_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFE0",
+			"profile_sidebar_fill_color": "FFFFE0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "함께 자라기 : 제가 쓴 첫 책이 나왔습니다! https://t.co/fkiB0TLWvO"
+	},
+	{
 		"created_at": "Fri Dec 07 05:05:58 +0000 2018",
 		"id": 1070907244152148000,
 		"id_str": "1070907244152147968",
