@@ -1,6 +1,890 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 11 19:33:07 +0000 2018",
+		"id": 1072575023779639300,
+		"id_str": "1072575023779639296",
+		"full_text": "Creative Agility Tools by @ClintonKeith is a great book, and FREE through EOD tomorrow. I highly recommend it! https://t.co/lwyxiYIABX https://t.co/pgIO7UPOS5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClintonKeith",
+					"name": "Clinton Keith",
+					"id": 66060239,
+					"id_str": "66060239",
+					"indices": [
+						26,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lwyxiYIABX",
+					"expanded_url": "http://bit.ly/2SFJfdm",
+					"display_url": "bit.ly/2SFJfdm",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072575017467199500,
+					"id_str": "1072575017467199488",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/DuKNS68XQAAfCU5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuKNS68XQAAfCU5.jpg",
+					"url": "https://t.co/pgIO7UPOS5",
+					"display_url": "pic.twitter.com/pgIO7UPOS5",
+					"expanded_url": "https://twitter.com/mikewcohn/status/1072575023779639296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 228,
+							"h": 346,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 228,
+							"h": 346,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 228,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072575017467199500,
+					"id_str": "1072575017467199488",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/DuKNS68XQAAfCU5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuKNS68XQAAfCU5.jpg",
+					"url": "https://t.co/pgIO7UPOS5",
+					"display_url": "pic.twitter.com/pgIO7UPOS5",
+					"expanded_url": "https://twitter.com/mikewcohn/status/1072575023779639296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 228,
+							"h": 346,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 228,
+							"h": 346,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 228,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55573320,
+			"id_str": "55573320",
+			"name": "Mike Cohn",
+			"screen_name": "mikewcohn",
+			"location": "Lafayette, CO",
+			"description": "I'm an agile software development consultant, trainer, author and practitioner. I blog at http://t.co/klqZO1Qk9v #MGSClasses",
+			"url": "http://t.co/aYJLyQCc6c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/aYJLyQCc6c",
+							"expanded_url": "http://www.mountaingoatsoftware.com",
+							"display_url": "mountaingoatsoftware.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/klqZO1Qk9v",
+							"expanded_url": "http://www.mountaingoatsoftware.com/blog",
+							"display_url": "mountaingoatsoftware.com/blog",
+							"indices": [
+								90,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 42312,
+			"friends_count": 205,
+			"listed_count": 1764,
+			"created_at": "Fri Jul 10 14:20:03 +0000 2009",
+			"favourites_count": 4023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4755,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4E78A0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753667616317673472/mCz4R6dl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753667616317673472/mCz4R6dl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55573320/1466711125",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Creative Agility Tools by @ClintonKeith is a great book, and FREE through EOD tomorrow. I highly recommend it! https://t.co/lwyxiYIABX https://t.co/pgIO7UPOS5"
+	},
+	{
+		"created_at": "Tue Dec 11 08:26:16 +0000 2018",
+		"id": 1072407202948898800,
+		"id_str": "1072407202948898816",
+		"full_text": "적폐세력이 기레기와 함께 그토록 여론전에 집착하는 이유를 잊지 말아야 한다. 세뇌되어서는 안된다. 깨어있자. 깨어서 우리 같이 진정한 아침을 맞이해보자. 좀비 없는 희망의 아침을..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1072407201665482800,
+		"in_reply_to_status_id_str": "1072407201665482753",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1693,
+			"friends_count": 279,
+			"listed_count": 175,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31977,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "적폐세력이 기레기와 함께 그토록 여론전에 집착하는 이유를 잊지 말아야 한다. 세뇌되어서는 안된다. 깨어있자. 깨어서 우리 같이 진정한 아침을 맞이해보자. 좀비 없는 희망의 아침을.."
+	},
+	{
+		"created_at": "Tue Dec 11 08:26:15 +0000 2018",
+		"id": 1072407201665482800,
+		"id_str": "1072407201665482753",
+		"full_text": "행동하는 양심으로 진정한 나라의 주인으로 일어서자. 기레기에게 전화 한통 더 하고 정신 못차리는 적폐 세력을 끊임없이 찾아서 심판대 위에 올려야 한다. 정신 못차린 국회의원에게 문자 하나 보내고 행동하자. 그렇지 않으면 변하지 않는다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1072407200365244400,
+		"in_reply_to_status_id_str": "1072407200365244418",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1693,
+			"friends_count": 279,
+			"listed_count": 175,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31977,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "행동하는 양심으로 진정한 나라의 주인으로 일어서자. 기레기에게 전화 한통 더 하고 정신 못차리는 적폐 세력을 끊임없이 찾아서 심판대 위에 올려야 한다. 정신 못차린 국회의원에게 문자 하나 보내고 행동하자. 그렇지 않으면 변하지 않는다."
+	},
+	{
+		"created_at": "Tue Dec 11 08:26:15 +0000 2018",
+		"id": 1072407200365244400,
+		"id_str": "1072407200365244418",
+		"full_text": "국민과 나라를 위해 일할 정상적인 사람들을 이 정부에 끊임없이 공급하고 우리 스스로 그런 사람이 되어야 한다. 아직 시작도 안했다. 실망하고 욕하지 마라.. 당신이 키보드 두드리는 그 시간 말고 한 것이 무엇인가?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1072407199073341400,
+		"in_reply_to_status_id_str": "1072407199073341441",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1693,
+			"friends_count": 279,
+			"listed_count": 175,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31977,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "국민과 나라를 위해 일할 정상적인 사람들을 이 정부에 끊임없이 공급하고 우리 스스로 그런 사람이 되어야 한다. 아직 시작도 안했다. 실망하고 욕하지 마라.. 당신이 키보드 두드리는 그 시간 말고 한 것이 무엇인가?"
+	},
+	{
+		"created_at": "Tue Dec 11 08:26:15 +0000 2018",
+		"id": 1072407199073341400,
+		"id_str": "1072407199073341441",
+		"full_text": "논에 숨어 있는 피를 하나 하나 뽑아내야 하듯이.. 사회 곳곳에 여전히 숨어 있는 적폐를 모조리 뽑아낼때까지 우리는 힘든 노동과 인내의 시간을 가져야 하고 지금은 믿고 지지하며 힘을 보태고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1072407197634752500,
+		"in_reply_to_status_id_str": "1072407197634752512",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1693,
+			"friends_count": 279,
+			"listed_count": 175,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31977,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "논에 숨어 있는 피를 하나 하나 뽑아내야 하듯이.. 사회 곳곳에 여전히 숨어 있는 적폐를 모조리 뽑아낼때까지 우리는 힘든 노동과 인내의 시간을 가져야 하고 지금은 믿고 지지하며 힘을 보태고"
+	},
+	{
+		"created_at": "Tue Dec 11 08:26:14 +0000 2018",
+		"id": 1072407197634752500,
+		"id_str": "1072407197634752512",
+		"full_text": "우리의 무지와 무관심이 그렇게 한 것이고, 그들 아래에서 분탕질치고 아직 책임도 지지 않고 벌도 받지 않았으며 반성조차 없는 수많은 부역자들이 있었기에 나라가 개판이었던 것이다. \n그것은 우리가 문재인을 대통령으로 떠밀었다고 이 모든 것이 정상화 되지 않는 것이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1072407196380618800,
+		"in_reply_to_status_id_str": "1072407196380618752",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1693,
+			"friends_count": 279,
+			"listed_count": 175,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31977,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "우리의 무지와 무관심이 그렇게 한 것이고, 그들 아래에서 분탕질치고 아직 책임도 지지 않고 벌도 받지 않았으며 반성조차 없는 수많은 부역자들이 있었기에 나라가 개판이었던 것이다. \n그것은 우리가 문재인을 대통령으로 떠밀었다고 이 모든 것이 정상화 되지 않는 것이다."
+	},
+	{
+		"created_at": "Tue Dec 11 08:26:14 +0000 2018",
+		"id": 1072407196380618800,
+		"id_str": "1072407196380618752",
+		"full_text": "사람들은 쥐새끼와 닭년을 감옥으로 보냈다고 적폐가 청산되었다고 착각하는데.. 그들이 대통령이 되어서 제왕적 대통령이기 때문에 이 나라를 그처럼 개판으로 만든게 아니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1693,
+			"friends_count": 279,
+			"listed_count": 175,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31977,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "사람들은 쥐새끼와 닭년을 감옥으로 보냈다고 적폐가 청산되었다고 착각하는데.. 그들이 대통령이 되어서 제왕적 대통령이기 때문에 이 나라를 그처럼 개판으로 만든게 아니다."
+	},
+	{
+		"created_at": "Mon Dec 10 13:06:39 +0000 2018",
+		"id": 1072115376735965200,
+		"id_str": "1072115376735965185",
+		"full_text": "함께 자라기 : 제가 쓴 첫 책이 나왔습니다! https://t.co/fkiB0TLWvO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fkiB0TLWvO",
+					"expanded_url": "http://agile.egloos.com/5914591",
+					"display_url": "agile.egloos.com/5914591",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21382169,
+			"id_str": "21382169",
+			"name": "June Kim",
+			"screen_name": "cjunekim",
+			"location": "Seoul, Korea",
+			"description": "President, Agile Consulting, Founder of the Korean agile/XP community\r\n\r\nhttp://t.co/3wJqVzDuPD\r\n김창준",
+			"url": "http://t.co/pyoq7iCdYx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/pyoq7iCdYx",
+							"expanded_url": "http://agile.egloos.com",
+							"display_url": "agile.egloos.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/3wJqVzDuPD",
+							"expanded_url": "http://kr.linkedin.com/pub/june-kim/2/814/5b1",
+							"display_url": "kr.linkedin.com/pub/june-kim/2…",
+							"indices": [
+								73,
+								95
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3270,
+			"friends_count": 424,
+			"listed_count": 243,
+			"created_at": "Fri Feb 20 07:41:40 +0000 2009",
+			"favourites_count": 570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3134,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFE0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/707278247/JuneKim_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/707278247/JuneKim_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFE0",
+			"profile_sidebar_fill_color": "FFFFE0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 29,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "함께 자라기 : 제가 쓴 첫 책이 나왔습니다! https://t.co/fkiB0TLWvO"
+	},
+	{
 		"created_at": "Mon Dec 10 13:06:39 +0000 2018",
 		"id": 1072115376735965200,
 		"id_str": "1072115376735965185",
