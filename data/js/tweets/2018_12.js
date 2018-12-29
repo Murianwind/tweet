@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 28 05:42:08 +0000 2018",
+		"id": 1078526494362591200,
+		"id_str": "1078526494362591232",
+		"full_text": "올해 가장 기억에 남는 순간은... ICAgile 자격증과 ISTQB MBT 자격증 취득.. #새해복많이받으세요 #2018Memory https://t.co/jM1u9EsE5b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새해복많이받으세요",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"text": "2018Memory",
+					"indices": [
+						63,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078526479581904900,
+					"id_str": "1078526479581904896",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DveyHnBVAAAeKWW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DveyHnBVAAAeKWW.jpg",
+					"url": "https://t.co/jM1u9EsE5b",
+					"display_url": "pic.twitter.com/jM1u9EsE5b",
+					"expanded_url": "https://twitter.com/murianwind/status/1078526494362591232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078526479581904900,
+					"id_str": "1078526479581904896",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DveyHnBVAAAeKWW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DveyHnBVAAAeKWW.jpg",
+					"url": "https://t.co/jM1u9EsE5b",
+					"display_url": "pic.twitter.com/jM1u9EsE5b",
+					"expanded_url": "https://twitter.com/murianwind/status/1078526494362591232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1643,
+			"friends_count": 278,
+			"listed_count": 174,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31983,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "올해 가장 기억에 남는 순간은... ICAgile 자격증과 ISTQB MBT 자격증 취득.. #새해복많이받으세요 #2018Memory https://t.co/jM1u9EsE5b"
+	},
+	{
+		"created_at": "Fri Dec 28 05:40:48 +0000 2018",
+		"id": 1078526156800815100,
+		"id_str": "1078526156800815104",
+		"full_text": "@ggomggom18 @histopian 그치만 기레기는 망하라고 굿판을 매일 벌이고 지지율 빠진다고 신나하는 사람들 많고 옆집에 불난거 구경한다고 자기 집 불난 줄 모르는 국민이 많은게 안타까울 뿐.. 지지율이라도 받혀줘야할텐데.. 적폐청산의 의지가 있더라고 동력이 없어지면 부질없죠.. 안타까울 뿐..",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ggomggom18",
+					"name": "워치독다롱이",
+					"id": 382676029,
+					"id_str": "382676029",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "histopian",
+					"name": "전우용",
+					"id": 155742974,
+					"id_str": "155742974",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1078507144704548900,
+		"in_reply_to_status_id_str": "1078507144704548867",
+		"in_reply_to_user_id": 382676029,
+		"in_reply_to_user_id_str": "382676029",
+		"in_reply_to_screen_name": "ggomggom18",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1643,
+			"friends_count": 278,
+			"listed_count": 174,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31983,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@ggomggom18 @histopian 그치만 기레기는 망하라고 굿판을 매일 벌이고 지지율 빠진다고 신나하는 사람들 많고 옆집에 불난거 구경한다고 자기 집 불난 줄 모르는 국민이 많은게 안타까울 뿐.. 지지율이라도 받혀줘야할텐데.. 적폐청산의 의지가 있더라고 동력이 없어지면 부질없죠.. 안타까울 뿐.."
+	},
+	{
+		"created_at": "Fri Dec 28 04:18:26 +0000 2018",
+		"id": 1078505429968158700,
+		"id_str": "1078505429968158722",
+		"full_text": "@ggomggom18 @histopian 슬픈 연말이네요. 하아.. 행정부의 적폐 수장은 어쨌든 몰아냈는데... 사법부나 입법부 적폐는 여전히 권력을 쥐고 있고.. 행정부도 머리는 바뀌었지만 수족은 지들이 기생수인것처럼 멋대로 움직이니..",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ggomggom18",
+					"name": "워치독다롱이",
+					"id": 382676029,
+					"id_str": "382676029",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "histopian",
+					"name": "전우용",
+					"id": 155742974,
+					"id_str": "155742974",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1078504683323289600,
+		"in_reply_to_status_id_str": "1078504683323289601",
+		"in_reply_to_user_id": 382676029,
+		"in_reply_to_user_id_str": "382676029",
+		"in_reply_to_screen_name": "ggomggom18",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1643,
+			"friends_count": 278,
+			"listed_count": 174,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31983,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@ggomggom18 @histopian 슬픈 연말이네요. 하아.. 행정부의 적폐 수장은 어쨌든 몰아냈는데... 사법부나 입법부 적폐는 여전히 권력을 쥐고 있고.. 행정부도 머리는 바뀌었지만 수족은 지들이 기생수인것처럼 멋대로 움직이니.."
+	},
+	{
 		"created_at": "Thu Dec 27 03:34:13 +0000 2018",
 		"id": 1078131911623495700,
 		"id_str": "1078131911623495680",
