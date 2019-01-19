@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 18 08:20:30 +0000 2019",
+		"id": 1086176491744841700,
+		"id_str": "1086176491744841728",
+		"full_text": "https://t.co/8iavQBmI6J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8iavQBmI6J",
+					"expanded_url": "http://news.khan.co.kr/kh_storytelling/2019/myact/result.html?gene=21",
+					"display_url": "news.khan.co.kr/kh_storytellin…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1627,
+			"friends_count": 279,
+			"listed_count": 175,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32020,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "und",
+		"text": "https://t.co/8iavQBmI6J"
+	},
+	{
+		"created_at": "Wed Jan 16 03:59:41 +0000 2019",
+		"id": 1085386078255808500,
+		"id_str": "1085386078255808512",
+		"full_text": "충정로에 ‘충정각’이라는 갤러리 겸 이탈리안 레스토랑이 있습니다. 서울에서 가장 오래된 서양식 주택인데, 그 주변이 재개발 지구로 지정되어 곧 헐릴 위기에 처해 있습니다.  충정각 건물 사서 문화재 지정 신청하면, 100% 지정되리라는 거 보증합니다.\nhttps://t.co/sZJXdDlndN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sZJXdDlndN",
+					"expanded_url": "https://www.facebook.com/wooyong.chun/posts/2435152339890374?notif_id=1547610678302953&notif_t=feedback_reaction_generic&ref=notif",
+					"display_url": "facebook.com/wooyong.chun/p…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155742974,
+			"id_str": "155742974",
+			"name": "전우용",
+			"screen_name": "histopian",
+			"location": "Seoul, Korea",
+			"description": "억울한 희생이 없는 시대를 기원합니다. 욕설 없는 청정 타임라인을 지향합니다. 지나치게 무식하거나 무례한 자, 글에 저질 인성을 드러내는 자들은 블록합니다. 조선일보 및 그 계열사들의 전문 또는 발췌 인용을 엄금합니다.",
+			"url": "https://t.co/C3UIKDOm7S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C3UIKDOm7S",
+							"expanded_url": "http://koreantweeters.com/histopian",
+							"display_url": "koreantweeters.com/histopian",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 447055,
+			"friends_count": 482,
+			"listed_count": 2627,
+			"created_at": "Tue Jun 15 00:04:50 +0000 2010",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16678,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "15122D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067394756416692225/huACWC7E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067394756416692225/huACWC7E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155742974/1526820915",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FDD1AE",
+			"profile_sidebar_fill_color": "CC8068",
+			"profile_text_color": "90716E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 536,
+		"favorite_count": 629,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "충정로에 ‘충정각’이라는 갤러리 겸 이탈리안 레스토랑이 있습니다. 서울에서 가장 오래된 서양식 주택인데, 그 주변이 재개발 지구로 지정되어 곧 헐릴 위기에 처해 있습니다.  충정각 건물 사서 문화재 지정 신청하면, 100% 지정되리라는 거 보증합니다.\nhttps://t.co/sZJXdDlndN"
+	},
+	{
 		"created_at": "Wed Jan 16 03:59:41 +0000 2019",
 		"id": 1085386078255808500,
 		"id_str": "1085386078255808512",
