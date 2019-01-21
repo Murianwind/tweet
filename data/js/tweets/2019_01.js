@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 20 01:40:20 +0000 2019",
+		"id": 1086800560685080600,
+		"id_str": "1086800560685080576",
+		"full_text": "@histopian 나전장인 황삼용 선생의 조선일보 인터뷰는 왜곡됐다는 통화내용을 공개하셨네요. 조선일보는 찌라시 수준만도 못한 곳입니다\n👉 https://t.co/cUtaC7rjXs https://t.co/p4vczohFcB",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "histopian",
+					"name": "전우용",
+					"id": 155742974,
+					"id_str": "155742974",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cUtaC7rjXs",
+					"expanded_url": "https://youtu.be/dGq-zBh3aEE",
+					"display_url": "youtu.be/dGq-zBh3aEE",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1086800553697435600,
+					"id_str": "1086800553697435648",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DxUXWHDVYAArEWd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxUXWHDVYAArEWd.jpg",
+					"url": "https://t.co/p4vczohFcB",
+					"display_url": "pic.twitter.com/p4vczohFcB",
+					"expanded_url": "https://twitter.com/gIDiiqKtdwIRAVr/status/1086800560685080576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1078,
+							"h": 753,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 753,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086800553697435600,
+					"id_str": "1086800553697435648",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DxUXWHDVYAArEWd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxUXWHDVYAArEWd.jpg",
+					"url": "https://t.co/p4vczohFcB",
+					"display_url": "pic.twitter.com/p4vczohFcB",
+					"expanded_url": "https://twitter.com/gIDiiqKtdwIRAVr/status/1086800560685080576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1078,
+							"h": 753,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 753,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1086798104978849800,
+		"in_reply_to_status_id_str": "1086798104978849792",
+		"in_reply_to_user_id": 155742974,
+		"in_reply_to_user_id_str": "155742974",
+		"in_reply_to_screen_name": "histopian",
+		"user": {
+			"id": 921834661768151000,
+			"id_str": "921834661768151040",
+			"name": "💉능구렁 평화를 꿈꾸다💊 문재인케어 지지! 그날 바다",
+			"screen_name": "gIDiiqKtdwIRAVr",
+			"location": "대한민국 설 달동네.👇제가 추천하는 유투브 채널입니다",
+			"description": "보고 싶은 것만 보려하지 말고..듣고 싶은 것만 들으려 하지 말고..생각하고 싶은 것만 생각하려 하지 말자. 그래도 끊임없이 듣고 보고 생각하며 배우고 체득하자. 사고와 대화의 대상은 제한을 두지 말자. 촛불시민의 자발적 참여와 강하게 뭉친 공감연대의식들이 모여서 원하는 나라만든다",
+			"url": "https://t.co/FUjJ6TjVWf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FUjJ6TjVWf",
+							"expanded_url": "https://www.youtube.com/user/BUNKER1MEMBERSHIP",
+							"display_url": "youtube.com/user/BUNKER1ME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1352,
+			"friends_count": 1031,
+			"listed_count": 1,
+			"created_at": "Sat Oct 21 20:24:45 +0000 2017",
+			"favourites_count": 16489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32204,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053181412730265600/ksKbBQld_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053181412730265600/ksKbBQld_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/921834661768151040/1521308091",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@histopian 나전장인 황삼용 선생의 조선일보 인터뷰는 왜곡됐다는 통화내용을 공개하셨네요. 조선일보는 찌라시 수준만도 못한 곳입니다\n👉 https://t.co/cUtaC7rjXs https://t.co/p4vczohFcB"
+	},
+	{
+		"created_at": "Sun Jan 20 01:30:34 +0000 2019",
+		"id": 1086798104978849800,
+		"id_str": "1086798104978849792",
+		"full_text": "노무현 전 대통령 사저에 ‘봉하 아방궁’이라는 이름을 붙였던 조선일보가, 손혜원 의원의 목포 낡은 집들에 ‘손혜원 타운’이라는 이름을 붙였습니다.\n의도도 수법도, 10년 전과 똑같습니다. 참 발전 없는 조선일보고, 발전 없는 독자들입니다.\n10년이면, 개돼지도 달라집니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155742974,
+			"id_str": "155742974",
+			"name": "전우용",
+			"screen_name": "histopian",
+			"location": "Seoul, Korea",
+			"description": "억울한 희생이 없는 시대를 기원합니다. 욕설 없는 청정 타임라인을 지향합니다. 지나치게 무식하거나 무례한 자, 글에 저질 인성을 드러내는 자들은 블록합니다. 조선일보 및 그 계열사들의 전문 또는 발췌 인용을 엄금합니다.",
+			"url": "https://t.co/C3UIKDOm7S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C3UIKDOm7S",
+							"expanded_url": "http://koreantweeters.com/histopian",
+							"display_url": "koreantweeters.com/histopian",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 446968,
+			"friends_count": 482,
+			"listed_count": 2625,
+			"created_at": "Tue Jun 15 00:04:50 +0000 2010",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16682,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "15122D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067394756416692225/huACWC7E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067394756416692225/huACWC7E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155742974/1526820915",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FDD1AE",
+			"profile_sidebar_fill_color": "CC8068",
+			"profile_text_color": "90716E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2028,
+		"favorite_count": 2049,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "노무현 전 대통령 사저에 ‘봉하 아방궁’이라는 이름을 붙였던 조선일보가, 손혜원 의원의 목포 낡은 집들에 ‘손혜원 타운’이라는 이름을 붙였습니다.\n의도도 수법도, 10년 전과 똑같습니다. 참 발전 없는 조선일보고, 발전 없는 독자들입니다.\n10년이면, 개돼지도 달라집니다."
+	},
+	{
 		"created_at": "Fri Jan 18 08:20:30 +0000 2019",
 		"id": 1086176491744841700,
 		"id_str": "1086176491744841728",
