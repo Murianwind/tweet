@@ -1,6 +1,746 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 29 13:54:21 +0000 2019",
+		"id": 1090246773040283600,
+		"id_str": "1090246773040283649",
+		"full_text": "부모의 자격은 무얼까? 아이들의 행복은 무얼까? 같은 공간 다른 사람.. 옆에 있어도 섞이지 못하는 보이지 않는 벽.. &lt;플로리다 프로젝트&gt; #WATCHA https://t.co/FWSAClugTB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WATCHA",
+					"indices": [
+						85,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FWSAClugTB",
+					"expanded_url": "https://watcha.com/ko-KR/contents/mWyJK8r",
+					"display_url": "watcha.com/ko-KR/contents…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://watcha.net\" rel=\"nofollow\">WATCHA</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1620,
+			"friends_count": 279,
+			"listed_count": 175,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32036,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "부모의 자격은 무얼까? 아이들의 행복은 무얼까? 같은 공간 다른 사람.. 옆에 있어도 섞이지 못하는 보이지 않는 벽.. &lt;플로리다 프로젝트&gt; #WATCHA https://t.co/FWSAClugTB"
+	},
+	{
+		"created_at": "Tue Jan 29 08:43:04 +0000 2019",
+		"id": 1090168437827989500,
+		"id_str": "1090168437827989504",
+		"full_text": "@histopian 누군가 했더니 빤스 목사군요.. 헐헐.. 나중에 주님이 저분을 알아보는지 꼭 보고 싶네요.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "histopian",
+					"name": "전우용",
+					"id": 155742974,
+					"id_str": "155742974",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1090164826721071100,
+		"in_reply_to_status_id_str": "1090164826721071104",
+		"in_reply_to_user_id": 155742974,
+		"in_reply_to_user_id_str": "155742974",
+		"in_reply_to_screen_name": "histopian",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1620,
+			"friends_count": 279,
+			"listed_count": 175,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32036,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@histopian 누군가 했더니 빤스 목사군요.. 헐헐.. 나중에 주님이 저분을 알아보는지 꼭 보고 싶네요."
+	},
+	{
+		"created_at": "Tue Jan 29 07:25:38 +0000 2019",
+		"id": 1090148950810611700,
+		"id_str": "1090148950810611712",
+		"full_text": "https://t.co/f7UsVutx1D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f7UsVutx1D",
+					"expanded_url": "http://www.ikwisdom.com/2019/01/10-outsourcing.html?m=1",
+					"display_url": "ikwisdom.com/2019/01/10-out…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1620,
+			"friends_count": 279,
+			"listed_count": 175,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32036,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "und",
+		"text": "https://t.co/f7UsVutx1D"
+	},
+	{
+		"created_at": "Mon Jan 28 21:48:12 +0000 2019",
+		"id": 1090003634044031000,
+		"id_str": "1090003634044030977",
+		"full_text": "표창원 \"의원 이해충돌 전수 조사할 '독립기구' 설치하자\" - 지금이 공론화할 적기… 국회윤리법에 이해충돌 금지 명문화해야\n\n상임위 속기록이나 법안심사 기록 공개 땐 기준 만들 수 있어 #국회윤리법 #이익충돌 #이해충돌 #전수조사  https://t.co/KyH2rkAgUF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "국회윤리법",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "이익충돌",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "이해충돌",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "전수조사",
+					"indices": [
+						123,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KyH2rkAgUF",
+					"expanded_url": "https://news.v.daum.net/v/20190129044327334",
+					"display_url": "news.v.daum.net/v/201901290443…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74048201,
+			"id_str": "74048201",
+			"name": "표창원",
+			"screen_name": "DrPyo",
+			"location": "대한민국",
+			"description": "#대한민국 #국회의원 #표창원 #정면돌파 #더불어민주당 #용인정 #정의 #안전 #행정 #Justice #Safety #MemberOfParliament (후원계좌) 국민은행 431401-04-088652 (국회의원표창원 후원회)",
+			"url": "https://t.co/EbCFFQyW3q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EbCFFQyW3q",
+							"expanded_url": "http://naver.me/5Zwr3LNA",
+							"display_url": "naver.me/5Zwr3LNA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 826006,
+			"friends_count": 126226,
+			"listed_count": 3154,
+			"created_at": "Mon Sep 14 02:48:25 +0000 2009",
+			"favourites_count": 13423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 43364,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027035876528807936/dBvbVyNq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027035876528807936/dBvbVyNq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74048201/1533699410",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 291,
+		"favorite_count": 400,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "표창원 \"의원 이해충돌 전수 조사할 '독립기구' 설치하자\" - 지금이 공론화할 적기… 국회윤리법에 이해충돌 금지 명문화해야\n\n상임위 속기록이나 법안심사 기록 공개 땐 기준 만들 수 있어 #국회윤리법 #이익충돌 #이해충돌 #전수조사  https://t.co/KyH2rkAgUF"
+	},
+	{
+		"created_at": "Tue Jan 29 01:07:50 +0000 2019",
+		"id": 1090053875367698400,
+		"id_str": "1090053875367698432",
+		"full_text": "어젯밤 별세한 김복동 할머니 빈소가 신촌 세브란스 병원 장례식장 특실 1호에 마련 되었습니다. 오늘(1월 29일) 오전 11시 부터 2월 1일 아침까지 누구나 조문 가능하오니 분위기가 썰렁하지 않도록 많이 와 주시면 고맙겠습니다. 사진은 영정 그림입니다. https://t.co/V7FmV1dmpK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1090053860469530600,
+					"id_str": "1090053860469530624",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DyCmNfNUYAA0YiK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyCmNfNUYAA0YiK.jpg",
+					"url": "https://t.co/V7FmV1dmpK",
+					"display_url": "pic.twitter.com/V7FmV1dmpK",
+					"expanded_url": "https://twitter.com/mediamongu/status/1090053875367698432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090053860469530600,
+					"id_str": "1090053860469530624",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DyCmNfNUYAA0YiK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyCmNfNUYAA0YiK.jpg",
+					"url": "https://t.co/V7FmV1dmpK",
+					"display_url": "pic.twitter.com/V7FmV1dmpK",
+					"expanded_url": "https://twitter.com/mediamongu/status/1090053875367698432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1090053860402450400,
+					"id_str": "1090053860402450442",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DyCmNe9U0AouaPQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyCmNe9U0AouaPQ.jpg",
+					"url": "https://t.co/V7FmV1dmpK",
+					"display_url": "pic.twitter.com/V7FmV1dmpK",
+					"expanded_url": "https://twitter.com/mediamongu/status/1090053875367698432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1090053860473729000,
+					"id_str": "1090053860473729024",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DyCmNfOUcAAwOOT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyCmNfOUcAAwOOT.jpg",
+					"url": "https://t.co/V7FmV1dmpK",
+					"display_url": "pic.twitter.com/V7FmV1dmpK",
+					"expanded_url": "https://twitter.com/mediamongu/status/1090053875367698432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1090053860465332200,
+					"id_str": "1090053860465332224",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DyCmNfMUUAAcKYr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyCmNfMUUAAcKYr.jpg",
+					"url": "https://t.co/V7FmV1dmpK",
+					"display_url": "pic.twitter.com/V7FmV1dmpK",
+					"expanded_url": "https://twitter.com/mediamongu/status/1090053875367698432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61760149,
+			"id_str": "61760149",
+			"name": "미디어몽구",
+			"screen_name": "mediamongu",
+			"location": "현장",
+			"description": "시대의기록자🎗",
+			"url": "https://t.co/tPayjRkhkp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tPayjRkhkp",
+							"expanded_url": "http://mongu.net",
+							"display_url": "mongu.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 481665,
+			"friends_count": 1502,
+			"listed_count": 5690,
+			"created_at": "Fri Jul 31 12:33:02 +0000 2009",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10046,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1699113480/__2_reasonably_small_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1699113480/__2_reasonably_small_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61760149/1521153774",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1298,
+		"favorite_count": 642,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어젯밤 별세한 김복동 할머니 빈소가 신촌 세브란스 병원 장례식장 특실 1호에 마련 되었습니다. 오늘(1월 29일) 오전 11시 부터 2월 1일 아침까지 누구나 조문 가능하오니 분위기가 썰렁하지 않도록 많이 와 주시면 고맙겠습니다. 사진은 영정 그림입니다. https://t.co/V7FmV1dmpK"
+	},
+	{
 		"created_at": "Mon Jan 28 14:29:42 +0000 2019",
 		"id": 1089893283390644200,
 		"id_str": "1089893283390644224",
