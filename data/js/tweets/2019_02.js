@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 08 09:27:45 +0000 2019",
+		"id": 1093803561605984300,
+		"id_str": "1093803561605984256",
+		"full_text": "애먼 사람 간첩으로 조작하는 데 국민세금을 쓴 정부기관의 수장이었던 사람이, 유력한 당대표 후보이자 대권주자 후보입니다.\n그런데도 저 당 지지율이 30%(리얼미터)랍니다.\n우리 경제규모에서 성장률 2-3%는 절대로 위기징후가 아닙니다. 그러나 저 당 지지율 30%는 아주 심각한 위기징후입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155742974,
+			"id_str": "155742974",
+			"name": "전우용",
+			"screen_name": "histopian",
+			"location": "Seoul, Korea",
+			"description": "억울한 희생이 없는 시대를 기원합니다. 욕설 없는 청정 타임라인을 지향합니다. 지나치게 무식하거나 무례한 자, 글에 저질 인성을 드러내는 자들은 블록합니다. 조선일보 및 그 계열사들의 전문 또는 발췌 인용을 엄금합니다.",
+			"url": "https://t.co/C3UIKDOm7S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C3UIKDOm7S",
+							"expanded_url": "http://koreantweeters.com/histopian",
+							"display_url": "koreantweeters.com/histopian",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 442973,
+			"friends_count": 481,
+			"listed_count": 2614,
+			"created_at": "Tue Jun 15 00:04:50 +0000 2010",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16754,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "15122D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067394756416692225/huACWC7E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067394756416692225/huACWC7E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155742974/1526820915",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FDD1AE",
+			"profile_sidebar_fill_color": "CC8068",
+			"profile_text_color": "90716E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1069,
+		"favorite_count": 1182,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "애먼 사람 간첩으로 조작하는 데 국민세금을 쓴 정부기관의 수장이었던 사람이, 유력한 당대표 후보이자 대권주자 후보입니다.\n그런데도 저 당 지지율이 30%(리얼미터)랍니다.\n우리 경제규모에서 성장률 2-3%는 절대로 위기징후가 아닙니다. 그러나 저 당 지지율 30%는 아주 심각한 위기징후입니다."
+	},
+	{
+		"created_at": "Fri Feb 08 07:58:12 +0000 2019",
+		"id": 1093781023102402600,
+		"id_str": "1093781023102402560",
+		"full_text": "2013년 6월, 유우성 간첩조작사건에서 허위진술한 증인들에게 법무부가 3300만 원에 달하는 포상금을 지급했답니다.\n허위진술의 대가로 '포상금'을 주는 건 범죄집단이나 하는 일입니다.\njtbc가 왜 당시 법무부 장관이 황교안씨였다는 사실을 밝히지 않았는지는, 모르겠군요.\n https://t.co/izkRUmLoBp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/izkRUmLoBp",
+					"expanded_url": "http://news.jtbc.joins.com/html/601/NB11766601.html",
+					"display_url": "news.jtbc.joins.com/html/601/NB117…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155742974,
+			"id_str": "155742974",
+			"name": "전우용",
+			"screen_name": "histopian",
+			"location": "Seoul, Korea",
+			"description": "억울한 희생이 없는 시대를 기원합니다. 욕설 없는 청정 타임라인을 지향합니다. 지나치게 무식하거나 무례한 자, 글에 저질 인성을 드러내는 자들은 블록합니다. 조선일보 및 그 계열사들의 전문 또는 발췌 인용을 엄금합니다.",
+			"url": "https://t.co/C3UIKDOm7S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C3UIKDOm7S",
+							"expanded_url": "http://koreantweeters.com/histopian",
+							"display_url": "koreantweeters.com/histopian",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 442973,
+			"friends_count": 481,
+			"listed_count": 2614,
+			"created_at": "Tue Jun 15 00:04:50 +0000 2010",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16754,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "15122D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067394756416692225/huACWC7E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067394756416692225/huACWC7E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155742974/1526820915",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FDD1AE",
+			"profile_sidebar_fill_color": "CC8068",
+			"profile_text_color": "90716E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 956,
+		"favorite_count": 864,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2013년 6월, 유우성 간첩조작사건에서 허위진술한 증인들에게 법무부가 3300만 원에 달하는 포상금을 지급했답니다.\n허위진술의 대가로 '포상금'을 주는 건 범죄집단이나 하는 일입니다.\njtbc가 왜 당시 법무부 장관이 황교안씨였다는 사실을 밝히지 않았는지는, 모르겠군요.\n https://t.co/izkRUmLoBp"
+	},
+	{
 		"created_at": "Thu Feb 07 23:26:57 +0000 2019",
 		"id": 1093652366081978400,
 		"id_str": "1093652366081978368",
