@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 08:13:06 +0000 2019",
+		"id": 1115165660705742800,
+		"id_str": "1115165660705742848",
+		"full_text": "4월 22일부터 23일까지 한국에서 ICAgile 의 Agile Fundamentals 교육이 진행됩니다. 교육은 제가 진행합니다. 교육도 듣고 자격증도 취득하고.. 관심 있으신 분들의 많은 참여 부탁드립니다.\n\nhttps://t.co/ws3hUySHzW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ws3hUySHzW",
+					"expanded_url": "https://icagile.com/Find-a-Class/ctl/ClassDetails/mid/924/classId/13684",
+					"display_url": "icagile.com/Find-a-Class/c…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1591,
+			"friends_count": 280,
+			"listed_count": 174,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32174,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "4월 22일부터 23일까지 한국에서 ICAgile 의 Agile Fundamentals 교육이 진행됩니다. 교육은 제가 진행합니다. 교육도 듣고 자격증도 취득하고.. 관심 있으신 분들의 많은 참여 부탁드립니다.\n\nhttps://t.co/ws3hUySHzW"
+	},
+	{
 		"created_at": "Sun Apr 07 11:00:40 +0000 2019",
 		"id": 1114845439365279700,
 		"id_str": "1114845439365279744",
