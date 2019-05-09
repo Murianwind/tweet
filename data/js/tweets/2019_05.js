@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 08 12:36:36 +0000 2019",
+		"id": 1126100306255917000,
+		"id_str": "1126103607974088710",
+		"full_text": "&lt;전우용의 사담&gt; 14화.\n'진짜 국민 역사 선생님'이신 이이화 선생님과 동학농민혁명에 관해 이야기를 나눴습니다.\n동학농민혁명 125년만인 올해, 황토현 전투가 있었던 5월 11일이 '국가기념일'로 지정됐습니다.\n새 '국가기념일'에 대해 많은 것을 알 수 있을 겁니다. https://t.co/FGEskXuaNo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FGEskXuaNo",
+					"expanded_url": "https://www.youtube.com/attribution_link?a=n_DlsONIDa8&u=%2Fwatch%3Fv%3Dt7kIeMCKlZE%26feature%3Dshare",
+					"display_url": "youtube.com/attribution_li…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155742974,
+			"id_str": "155742974",
+			"name": "전우용",
+			"screen_name": "histopian",
+			"location": "Seoul, Korea",
+			"description": "억울한 희생이 없는 시대를 기원합니다. 욕설 없는 청정 타임라인을 지향합니다. 지나치게 무식하거나 무례한 자, 글에 저질 인성을 드러내는 자들은 블록합니다. 조선일보 및 그 계열사들의 전문 또는 발췌 인용을 엄금합니다.",
+			"url": "https://t.co/C3UIKDOm7S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C3UIKDOm7S",
+							"expanded_url": "http://koreantweeters.com/histopian",
+							"display_url": "koreantweeters.com/histopian",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 436159,
+			"friends_count": 406,
+			"listed_count": 2582,
+			"created_at": "Tue Jun 15 00:04:50 +0000 2010",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16921,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "15122D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096333119567781888/-wbL5tvn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096333119567781888/-wbL5tvn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155742974/1526820915",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FDD1AE",
+			"profile_sidebar_fill_color": "CC8068",
+			"profile_text_color": "90716E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 155,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "&lt;전우용의 사담&gt; 14화.\n'진짜 국민 역사 선생님'이신 이이화 선생님과 동학농민혁명에 관해 이야기를 나눴습니다.\n동학농민혁명 125년만인 올해, 황토현 전투가 있었던 5월 11일이 '국가기념일'로 지정됐습니다.\n새 '국가기념일'에 대해 많은 것을 알 수 있을 겁니다. https://t.co/FGEskXuaNo"
+	},
+	{
 		"created_at": "Tue May 07 13:59:59 +0000 2019",
 		"id": 1125762202030358500,
 		"id_str": "1125762202030358529",
