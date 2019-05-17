@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 00:35:26 +0000 2019",
+		"id": 1128820990111125500,
+		"id_str": "1128821222903468032",
+		"full_text": "'5.18 피해자' 자격을 사양했다던 심재철 의원이 당사자만 신청할 수 있는 보상금을 타놓고도, \"제가 신청했었는지 알아볼 것\"이라고 했습니다. \n5.18 진상이 아직 다 밝혀지지 않은 이유는, 사욕 때문에 자기 기억과 싸우는 사람이 많기 때문입니다.\nhttps://t.co/yAFTAF1NvW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yAFTAF1NvW",
+					"expanded_url": "https://news.khan.kr/iD7n",
+					"display_url": "news.khan.kr/iD7n",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155742974,
+			"id_str": "155742974",
+			"name": "전우용",
+			"screen_name": "histopian",
+			"location": "Seoul, Korea",
+			"description": "억울한 희생이 없는 시대를 기원합니다. 욕설 없는 청정 타임라인을 지향합니다. 지나치게 무식하거나 무례한 자, 글에 저질 인성을 드러내는 자들은 블록합니다. 조선일보 및 그 계열사들의 전문 또는 발췌 인용을 엄금합니다.",
+			"url": "https://t.co/C3UIKDOm7S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C3UIKDOm7S",
+							"expanded_url": "http://koreantweeters.com/histopian",
+							"display_url": "koreantweeters.com/histopian",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 435876,
+			"friends_count": 405,
+			"listed_count": 2582,
+			"created_at": "Tue Jun 15 00:04:50 +0000 2010",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16940,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "15122D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096333119567781888/-wbL5tvn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096333119567781888/-wbL5tvn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155742974/1526820915",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FDD1AE",
+			"profile_sidebar_fill_color": "CC8068",
+			"profile_text_color": "90716E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 857,
+		"favorite_count": 823,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "'5.18 피해자' 자격을 사양했다던 심재철 의원이 당사자만 신청할 수 있는 보상금을 타놓고도, \"제가 신청했었는지 알아볼 것\"이라고 했습니다. \n5.18 진상이 아직 다 밝혀지지 않은 이유는, 사욕 때문에 자기 기억과 싸우는 사람이 많기 때문입니다.\nhttps://t.co/yAFTAF1NvW"
+	},
+	{
 		"created_at": "Tue May 14 11:25:25 +0000 2019",
 		"id": 1128260022088028200,
 		"id_str": "1128260022088028160",
