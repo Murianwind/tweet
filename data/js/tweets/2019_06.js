@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 08:36:13 +0000 2019",
+		"id": 1135827585164689400,
+		"id_str": "1135827585164689409",
+		"full_text": "6월 17일에 열리는 ICAgile Fundamentals 교육 개강이 확정되어서 너무 기쁩니다.\n\n혹시나 폐강될까 신청하지 못하셨던 분들이 계시다면 아직 여유 좌석이 남아 있을 때 꼭 신청하시기 바랍니다.\n\n교육도 듣고, 자격증도 취득하는 1석 2조의 좋은 교육 놓치지 마세요.\n\nhttps://t.co/9BiilAj6XT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9BiilAj6XT",
+					"expanded_url": "https://www.sten.or.kr/payment/index.php?ex_id=1735",
+					"display_url": "sten.or.kr/payment/index.…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 279,
+			"listed_count": 172,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "6월 17일에 열리는 ICAgile Fundamentals 교육 개강이 확정되어서 너무 기쁩니다.\n\n혹시나 폐강될까 신청하지 못하셨던 분들이 계시다면 아직 여유 좌석이 남아 있을 때 꼭 신청하시기 바랍니다.\n\n교육도 듣고, 자격증도 취득하는 1석 2조의 좋은 교육 놓치지 마세요.\n\nhttps://t.co/9BiilAj6XT"
+	},
+	{
+		"created_at": "Tue Jun 04 08:33:23 +0000 2019",
+		"id": 1135826871067615200,
+		"id_str": "1135826871067615233",
+		"full_text": "얼마전에 수강생이 쓸데 없는 추임새 좀 안했으면 좋겠다고 했었는데... 스크립트 작업을 하면서 객관적으로 분석해 보니 생각보다 상태가 심각하다고 느낌이 퐉!!\n\n고로 다음 부터는 다시 발표 이전에 스크립트 작업을 꼭 해야 할 것 같다. 하아.. 발표 잘하고 싶다..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1135826870098845700,
+		"in_reply_to_status_id_str": "1135826870098845697",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 279,
+			"listed_count": 172,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "얼마전에 수강생이 쓸데 없는 추임새 좀 안했으면 좋겠다고 했었는데... 스크립트 작업을 하면서 객관적으로 분석해 보니 생각보다 상태가 심각하다고 느낌이 퐉!!\n\n고로 다음 부터는 다시 발표 이전에 스크립트 작업을 꼭 해야 할 것 같다. 하아.. 발표 잘하고 싶다.."
+	},
+	{
 		"created_at": "Mon Jun 03 23:57:07 +0000 2019",
 		"id": 1135696950676688900,
 		"id_str": "1135696950676688896",
