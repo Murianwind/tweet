@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 12 18:15:47 +0000 2019",
+		"id": 1149710153601749000,
+		"id_str": "1149744177426489344",
+		"full_text": "“Solving Problems Safely with Mary and Tom Poppendieck” on the Unlearn podcast featuring @mpoppendieck and Tom Poppendieck  with host @barryoreilly Summary 👉 https://t.co/eaba5KXELS Full episode 👉 https://t.co/sszr9W10hW #engineering #problemsolving https://t.co/bInny3N2fS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "engineering",
+					"indices": [
+						221,
+						233
+					]
+				},
+				{
+					"text": "problemsolving",
+					"indices": [
+						234,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mpoppendieck",
+					"name": "Mary Poppendieck",
+					"id": 200631648,
+					"id_str": "200631648",
+					"indices": [
+						89,
+						102
+					]
+				},
+				{
+					"screen_name": "barryoreilly",
+					"name": "Barry O'Reilly",
+					"id": 155762008,
+					"id_str": "155762008",
+					"indices": [
+						134,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eaba5KXELS",
+					"expanded_url": "https://podcasts.apple.com/ca/podcast/a-plan-for-the-next-24-hours/id1449111253?i=1000443951889",
+					"display_url": "podcasts.apple.com/ca/podcast/a-p…",
+					"indices": [
+						158,
+						181
+					]
+				},
+				{
+					"url": "https://t.co/sszr9W10hW",
+					"expanded_url": "http://bit.ly/unlearn_poppendieck_apple",
+					"display_url": "bit.ly/unlearn_poppen…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1149710150762139600,
+					"id_str": "1149710150762139649",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/D_SXSmrWkAEWcrj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_SXSmrWkAEWcrj.jpg",
+					"url": "https://t.co/bInny3N2fS",
+					"display_url": "pic.twitter.com/bInny3N2fS",
+					"expanded_url": "https://twitter.com/thekguy/status/1149710153601748993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149710150762139600,
+					"id_str": "1149710150762139649",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/D_SXSmrWkAEWcrj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_SXSmrWkAEWcrj.jpg",
+					"url": "https://t.co/bInny3N2fS",
+					"display_url": "pic.twitter.com/bInny3N2fS",
+					"expanded_url": "https://twitter.com/thekguy/status/1149710153601748993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15077737,
+			"id_str": "15077737",
+			"name": "Keith McDonald",
+			"screen_name": "thekguy",
+			"location": "",
+			"description": "Host of Technology Leadership Podcast Review",
+			"url": "https://t.co/DVPfe9mYzx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DVPfe9mYzx",
+							"expanded_url": "http://bit.ly/tlpr_podcast",
+							"display_url": "bit.ly/tlpr_podcast",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 476,
+			"friends_count": 441,
+			"listed_count": 8,
+			"created_at": "Tue Jun 10 21:04:35 +0000 2008",
+			"favourites_count": 460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030303",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/996872190875193344/yYWc6D3k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/996872190875193344/yYWc6D3k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15077737/1498097810",
+			"profile_link_color": "00BCD5",
+			"profile_sidebar_border_color": "403933",
+			"profile_sidebar_fill_color": "262524",
+			"profile_text_color": "7D7D7D",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Solving Problems Safely with Mary and Tom Poppendieck” on the Unlearn podcast featuring @mpoppendieck and Tom Poppendieck  with host @barryoreilly Summary 👉 https://t.co/eaba5KXELS Full episode 👉 https://t.co/sszr9W10hW #engineering #problemsolving https://t.co/bInny3N2fS"
+	},
+	{
 		"created_at": "Thu Jul 11 08:25:49 +0000 2019",
 		"id": 1149233316987428900,
 		"id_str": "1149233316987428865",
