@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 18:27:27 +0000 2019",
+		"id": 1161310226190090200,
+		"id_str": "1161343524580675584",
+		"full_text": "Managing sprint interruptions by tracking buffer use #agile #Scrum https://t.co/lDm2gtmgxT https://t.co/PQ2b1RgTj3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "agile",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "Scrum",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lDm2gtmgxT",
+					"expanded_url": "http://bit.ly/2Z4mUZu",
+					"display_url": "bit.ly/2Z4mUZu",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1161310219370193000,
+					"id_str": "1161310219370192896",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EB3NfduXYAAVUU0.png",
+					"media_url_https": "https://pbs.twimg.com/media/EB3NfduXYAAVUU0.png",
+					"url": "https://t.co/PQ2b1RgTj3",
+					"display_url": "pic.twitter.com/PQ2b1RgTj3",
+					"expanded_url": "https://twitter.com/mikewcohn/status/1161310226190090240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1560,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161310219370193000,
+					"id_str": "1161310219370192896",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EB3NfduXYAAVUU0.png",
+					"media_url_https": "https://pbs.twimg.com/media/EB3NfduXYAAVUU0.png",
+					"url": "https://t.co/PQ2b1RgTj3",
+					"display_url": "pic.twitter.com/PQ2b1RgTj3",
+					"expanded_url": "https://twitter.com/mikewcohn/status/1161310226190090240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1560,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55573320,
+			"id_str": "55573320",
+			"name": "Mike Cohn",
+			"screen_name": "mikewcohn",
+			"location": "Lafayette, CO",
+			"description": "I'm an agile software development consultant, trainer, author and practitioner. I blog at http://t.co/klqZO1Qk9v #MGSClasses",
+			"url": "http://t.co/aYJLyQCc6c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/aYJLyQCc6c",
+							"expanded_url": "http://www.mountaingoatsoftware.com",
+							"display_url": "mountaingoatsoftware.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/klqZO1Qk9v",
+							"expanded_url": "http://www.mountaingoatsoftware.com/blog",
+							"display_url": "mountaingoatsoftware.com/blog",
+							"indices": [
+								90,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 45037,
+			"friends_count": 206,
+			"listed_count": 1789,
+			"created_at": "Fri Jul 10 14:20:03 +0000 2009",
+			"favourites_count": 4516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4E78A0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753667616317673472/mCz4R6dl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753667616317673472/mCz4R6dl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55573320/1466711125",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Managing sprint interruptions by tracking buffer use #agile #Scrum https://t.co/lDm2gtmgxT https://t.co/PQ2b1RgTj3"
+	},
+	{
 		"created_at": "Mon Aug 12 22:02:04 +0000 2019",
 		"id": 1161035145295433700,
 		"id_str": "1161035145295433728",
