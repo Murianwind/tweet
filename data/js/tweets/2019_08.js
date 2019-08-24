@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 23 12:03:39 +0000 2019",
+		"id": 1164870815566819300,
+		"id_str": "1164870815566819335",
+		"full_text": "@histopian 단대에서는 교수 퇴진을 요구하는 집회도 있었다는데... 예수께서 너희 중에 죄 없는 이가 돌을 던지라 하셨는데.. 이들은 도데체 얼마나 순결한 것인지.. 우리가 순결한 사람을 장관으로 쓰고 써야할까요? 능력 있는 사람을 써야할까요? 똥 묻은 능력자만 아니라면 괜찮은거 아닐까요?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "histopian",
+					"name": "전우용",
+					"id": 155742974,
+					"id_str": "155742974",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1164869934637375500,
+		"in_reply_to_status_id_str": "1164869934637375492",
+		"in_reply_to_user_id": 155742974,
+		"in_reply_to_user_id_str": "155742974",
+		"in_reply_to_screen_name": "histopian",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1576,
+			"friends_count": 280,
+			"listed_count": 170,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@histopian 단대에서는 교수 퇴진을 요구하는 집회도 있었다는데... 예수께서 너희 중에 죄 없는 이가 돌을 던지라 하셨는데.. 이들은 도데체 얼마나 순결한 것인지.. 우리가 순결한 사람을 장관으로 쓰고 써야할까요? 능력 있는 사람을 써야할까요? 똥 묻은 능력자만 아니라면 괜찮은거 아닐까요?"
+	},
+	{
 		"created_at": "Wed Aug 21 13:24:18 +0000 2019",
 		"id": 1164166338480230400,
 		"id_str": "1164166338480230406",
