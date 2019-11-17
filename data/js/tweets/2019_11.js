@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 16 23:27:41 +0000 2019",
+		"id": 1194243677905801200,
+		"id_str": "1195845927853912065",
+		"full_text": "홍콩 견찰들이 임산부 여성에게 이렇게 하고 있음.동내 양아치들도 이렇게까지는 하지않음.\nhttps://t.co/53KN4rSBuf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1194128129779855400,
+					"id_str": "1194128129779855361",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194128129779855361/pu/img/_RcNrNrPbnnXzSop.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194128129779855361/pu/img/_RcNrNrPbnnXzSop.jpg",
+					"url": "https://t.co/53KN4rSBuf",
+					"display_url": "pic.twitter.com/53KN4rSBuf",
+					"expanded_url": "https://twitter.com/wongyt1120/status/1194128252530384897/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 362,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 362,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 362,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1194128252530385000,
+					"source_status_id_str": "1194128252530384897",
+					"source_user_id": 863431245312565200,
+					"source_user_id_str": "863431245312565248",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194128129779855400,
+					"id_str": "1194128129779855361",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194128129779855361/pu/img/_RcNrNrPbnnXzSop.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194128129779855361/pu/img/_RcNrNrPbnnXzSop.jpg",
+					"url": "https://t.co/53KN4rSBuf",
+					"display_url": "pic.twitter.com/53KN4rSBuf",
+					"expanded_url": "https://twitter.com/wongyt1120/status/1194128252530384897/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 362,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 362,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 362,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1194128252530385000,
+					"source_status_id_str": "1194128252530384897",
+					"source_user_id": 863431245312565200,
+					"source_user_id_str": "863431245312565248",
+					"video_info": {
+						"aspect_ratio": [
+							181,
+							320
+						],
+						"duration_millis": 66571,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1194128129779855361/pu/vid/320x564/ufaEsUvYv93_vx19.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1194128129779855361/pu/vid/362x640/Sw7YJIw6wXh0X3n6.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1194128129779855361/pu/pl/AkfZ3CiUz7SUNXyD.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 863431245312565200,
+							"id_str": "863431245312565248",
+							"name": "uni🦄corn",
+							"screen_name": "supporthomekong",
+							"location": "",
+							"description": "Hong Kong girl🇭🇰 Chinese&English&한국어‼️ Hong Kong is my home and I just want to protect. ❤️",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 84,
+							"friends_count": 57,
+							"listed_count": 0,
+							"created_at": "Sat May 13 16:30:25 +0000 2017",
+							"favourites_count": 55,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 115,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1195329685468536832/5YVmmVTr_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195329685468536832/5YVmmVTr_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/863431245312565248/1573823044",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2377087291,
+			"id_str": "2377087291",
+			"name": "대치동 나팔🎗",
+			"screen_name": "Schalom1004",
+			"location": "Seoul,KOR",
+			"description": "He who does not trust enough. will not be trusted.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72466,
+			"friends_count": 60740,
+			"listed_count": 200,
+			"created_at": "Fri Mar 07 13:03:45 +0000 2014",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154558010942877696/Uxg4TNWT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154558010942877696/Uxg4TNWT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2377087291/1573822031",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14196,
+		"favorite_count": 3364,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "홍콩 견찰들이 임산부 여성에게 이렇게 하고 있음.동내 양아치들도 이렇게까지는 하지않음.\nhttps://t.co/53KN4rSBuf"
+	},
+	{
 		"created_at": "Thu Nov 14 03:40:32 +0000 2019",
 		"id": 1194822397087510500,
 		"id_str": "1194822397087510528",
