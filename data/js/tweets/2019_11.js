@@ -1,6 +1,139 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 22 14:23:03 +0000 2019",
+		"id": 1197297809957015600,
+		"id_str": "1197883193384288256",
+		"full_text": "We are Explorers not gatekeepers.\n\nWe are Researchers not assurers.\n\nWe are Analysts not critics.\n\nWe are Supporters not attackers.\n\nWe are Observers not detractors.\n\nWe are Software Testers.\n\n#software #poem\n@ministryoftest",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "software",
+					"indices": [
+						193,
+						202
+					]
+				},
+				{
+					"text": "poem",
+					"indices": [
+						203,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ministryoftest",
+					"name": "Ministry of Testing",
+					"id": 368357474,
+					"id_str": "368357474",
+					"indices": [
+						209,
+						224
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25577978,
+			"id_str": "25577978",
+			"name": "Ben Dowen",
+			"screen_name": "dowenb",
+			"location": "England",
+			"description": "Quality Manager @Intercept_IP https://t.co/nlD0BHQkan | Remote Worker | #Tester | #CodeNewbie | Boardgame Geek | Words are my own. |  he/him | England, UK",
+			"url": "https://t.co/UDHR7Rchrx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UDHR7Rchrx",
+							"expanded_url": "https://www.dowen.me.uk",
+							"display_url": "dowen.me.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nlD0BHQkan",
+							"expanded_url": "http://interceptip.com/team",
+							"display_url": "interceptip.com/team",
+							"indices": [
+								30,
+								53
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 857,
+			"friends_count": 1452,
+			"listed_count": 29,
+			"created_at": "Fri Mar 20 21:16:52 +0000 2009",
+			"favourites_count": 10412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964516841547816960/q-C9aFHG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964516841547816960/q-C9aFHG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25577978/1572903554",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 162,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We are Explorers not gatekeepers.\n\nWe are Researchers not assurers.\n\nWe are Analysts not critics.\n\nWe are Supporters not attackers.\n\nWe are Observers not detractors.\n\nWe are Software Testers.\n\n#software #poem\n@ministryoftest"
+	},
+	{
 		"created_at": "Thu Nov 21 13:38:17 +0000 2019",
 		"id": 1197509538091389000,
 		"id_str": "1197509538091388934",
