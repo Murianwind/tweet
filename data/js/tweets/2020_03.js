@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 12 00:42:09 +0000 2020",
+		"id": 1237901057532911600,
+		"id_str": "1237901660380262403",
+		"full_text": "온라인 회의 요결 https://t.co/dp1FBlR9RB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dp1FBlR9RB",
+					"expanded_url": "https://youtu.be/fKgitEaFmd0",
+					"display_url": "youtu.be/fKgitEaFmd0",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21382169,
+			"id_str": "21382169",
+			"name": "June Kim",
+			"screen_name": "cjunekim",
+			"location": "Seoul, Korea",
+			"description": "President, Agile Consulting, Founder of the Korean agile/XP community\r\n\r\nhttp://t.co/3wJqVzDuPD\r\n김창준",
+			"url": "http://t.co/pyoq7iCdYx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/pyoq7iCdYx",
+							"expanded_url": "http://agile.egloos.com",
+							"display_url": "agile.egloos.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/3wJqVzDuPD",
+							"expanded_url": "http://kr.linkedin.com/pub/june-kim/2/814/5b1",
+							"display_url": "kr.linkedin.com/pub/june-kim/2…",
+							"indices": [
+								73,
+								95
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3197,
+			"friends_count": 435,
+			"listed_count": 234,
+			"created_at": "Fri Feb 20 07:41:40 +0000 2009",
+			"favourites_count": 601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFE0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/707278247/JuneKim_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/707278247/JuneKim_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFE0",
+			"profile_sidebar_fill_color": "FFFFE0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "온라인 회의 요결 https://t.co/dp1FBlR9RB"
+	},
+	{
+		"created_at": "Thu Mar 12 00:22:49 +0000 2020",
+		"id": 1237896796455592000,
+		"id_str": "1237896796455591938",
+		"full_text": "까딱 잘못하면 21대 국회 역시 식물국회, 동물국회, 개판국회가 될거 같은... 불긴한 기운이.. 하아.. 다양한 정당이 국회를 구성하는건 찬성이지만.. 그 다양한 정당 중에 말이 통하는 정당이 몇개나 되는지는.. 잘 모르겠다..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1237896794840821800,
+		"in_reply_to_status_id_str": "1237896794840821761",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1554,
+			"friends_count": 280,
+			"listed_count": 169,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "까딱 잘못하면 21대 국회 역시 식물국회, 동물국회, 개판국회가 될거 같은... 불긴한 기운이.. 하아.. 다양한 정당이 국회를 구성하는건 찬성이지만.. 그 다양한 정당 중에 말이 통하는 정당이 몇개나 되는지는.. 잘 모르겠다.."
+	},
+	{
+		"created_at": "Thu Mar 12 00:22:49 +0000 2020",
+		"id": 1237896794840821800,
+		"id_str": "1237896794840821761",
+		"full_text": "토착왜구 때문에 이렇게 스트레스 받아가며 투표를 해야 하는게 서글프다.. 토착왜구와 기레기만 없었어도 지금보다 한 10배 정도는 살만한 나라가 될 거 같은데.. 올 한해 후반에는 좀 편하게 살 수 있을지..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1237896793058246700,
+		"in_reply_to_status_id_str": "1237896793058246657",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1554,
+			"friends_count": 280,
+			"listed_count": 169,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "토착왜구 때문에 이렇게 스트레스 받아가며 투표를 해야 하는게 서글프다.. 토착왜구와 기레기만 없었어도 지금보다 한 10배 정도는 살만한 나라가 될 거 같은데.. 올 한해 후반에는 좀 편하게 살 수 있을지.."
+	},
+	{
 		"created_at": "Wed Mar 11 08:48:06 +0000 2020",
 		"id": 1237661566717161500,
 		"id_str": "1237661566717161473",
