@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 02:56:56 +0000 2020",
+		"id": 1250552006252523500,
+		"id_str": "1250619155042021377",
+		"full_text": "‘코로나19’에 대응하는 우리의 \n자세와 대책 속에는 세월호의 \n교훈이 담겨 있습니다. \n‘사회적 책임’을 유산으로 남겨준 \n아이들을 기억하며, 국민들께 \n진심으로 감사드립니다. https://t.co/r19jwnCTYV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250549543801766000,
+					"id_str": "1250549543801765891",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EVrYLzRUwAMQzTs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVrYLzRUwAMQzTs.jpg",
+					"url": "https://t.co/r19jwnCTYV",
+					"display_url": "pic.twitter.com/r19jwnCTYV",
+					"expanded_url": "https://twitter.com/moonriver365/status/1250552006252523520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 334,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 589,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 628,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250549543801766000,
+					"id_str": "1250549543801765891",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EVrYLzRUwAMQzTs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVrYLzRUwAMQzTs.jpg",
+					"url": "https://t.co/r19jwnCTYV",
+					"display_url": "pic.twitter.com/r19jwnCTYV",
+					"expanded_url": "https://twitter.com/moonriver365/status/1250552006252523520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 334,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 589,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 628,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444465942,
+			"id_str": "444465942",
+			"name": "문재인",
+			"screen_name": "moonriver365",
+			"location": "대한민국",
+			"description": "대한민국 대통령 문재인입니다. President of the Republic of Korea. 나라다운 나라를 만들기 위해 국민여러분과 함께 하겠습니다. @thebluehousekr @TheBlueHouseENG",
+			"url": "https://t.co/FAKWOwyhHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FAKWOwyhHd",
+							"expanded_url": "http://www.president.go.kr",
+							"display_url": "president.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1771603,
+			"friends_count": 146544,
+			"listed_count": 8265,
+			"created_at": "Fri Dec 23 08:46:08 +0000 2011",
+			"favourites_count": 726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/444465942/1583716608",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23659,
+		"favorite_count": 22736,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘코로나19’에 대응하는 우리의 \n자세와 대책 속에는 세월호의 \n교훈이 담겨 있습니다. \n‘사회적 책임’을 유산으로 남겨준 \n아이들을 기억하며, 국민들께 \n진심으로 감사드립니다. https://t.co/r19jwnCTYV"
+	},
+	{
+		"created_at": "Thu Apr 16 02:55:59 +0000 2020",
+		"id": 1250618913785696300,
+		"id_str": "1250618913785696256",
+		"full_text": "아무리 늦어도 6월이면 국회가 정상화 되겠죠.. 진짜 진짜 열린우리당 시즌 2는 재현하지 맙시다.. 이미 한번 해봤잖아요.. 뒷통수 후려까던 사람도 다 나갔는데..\n\n새 원내대표와 국회의장이 누가 되실지.. 제발 국회를 잘 이끌어주시길..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1250618912162476000,
+		"in_reply_to_status_id_str": "1250618912162476032",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1544,
+			"friends_count": 277,
+			"listed_count": 168,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아무리 늦어도 6월이면 국회가 정상화 되겠죠.. 진짜 진짜 열린우리당 시즌 2는 재현하지 맙시다.. 이미 한번 해봤잖아요.. 뒷통수 후려까던 사람도 다 나갔는데..\n\n새 원내대표와 국회의장이 누가 되실지.. 제발 국회를 잘 이끌어주시길.."
+	},
+	{
 		"created_at": "Wed Apr 15 23:16:59 +0000 2020",
 		"id": 1250563803483222000,
 		"id_str": "1250563803483222016",
