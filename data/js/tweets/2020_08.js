@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 28 22:52:12 +0000 2020",
+		"id": 1299340279393276000,
+		"id_str": "1299479926689550336",
+		"full_text": "Wow, now @janetgregoryca &amp; I have a Korean translation of our \"Quick Tools for Agile Testing\" cheat sheet! https://t.co/RmOzcwo4VU Many thanks to Jeonghan Choe for the translation!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "janetgregoryca",
+					"name": "Janet Gregory",
+					"id": 16692137,
+					"id_str": "16692137",
+					"indices": [
+						9,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RmOzcwo4VU",
+					"expanded_url": "https://agiletester.ca/quick-tips-for-agile-testing/",
+					"display_url": "agiletester.ca/quick-tips-for…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15171615,
+			"id_str": "15171615",
+			"name": "lisacrispin",
+			"screen_name": "lisacrispin",
+			"location": "Charlotte, VT!",
+			"description": "Now available, Amazon & LeanPub: _Agile Testing Condensed_! See https://t.co/KDbFTkGIu8,  https://t.co/DXOlUdYqKw, She/her. Quality owner, @OutSystems R&D, #o11y-bound!",
+			"url": "https://t.co/hrEoqFKlVh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hrEoqFKlVh",
+							"expanded_url": "https://lisacrispin.com",
+							"display_url": "lisacrispin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KDbFTkGIu8",
+							"expanded_url": "http://AgileTestingFellow.com",
+							"display_url": "AgileTestingFellow.com",
+							"indices": [
+								64,
+								87
+							]
+						},
+						{
+							"url": "https://t.co/DXOlUdYqKw",
+							"expanded_url": "http://agiletester.ca",
+							"display_url": "agiletester.ca",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19597,
+			"friends_count": 5751,
+			"listed_count": 1176,
+			"created_at": "Thu Jun 19 18:06:04 +0000 2008",
+			"favourites_count": 30223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 133935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/668495498773291008/FWCPfVae_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/668495498773291008/FWCPfVae_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15171615/1591789297",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow, now @janetgregoryca &amp; I have a Korean translation of our \"Quick Tools for Agile Testing\" cheat sheet! https://t.co/RmOzcwo4VU Many thanks to Jeonghan Choe for the translation!"
+	},
+	{
 		"created_at": "Tue Aug 25 14:44:02 +0000 2020",
 		"id": 1298269911513329700,
 		"id_str": "1298269911513329665",
