@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 14 22:52:57 +0000 2020",
+		"id": 1305639299157602300,
+		"id_str": "1305640710092120064",
+		"full_text": "@RobMeaney @AngelaRiggs_ Nuts, that was an earlier document. Here is the correct version: https://t.co/xnWV6JYldH",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RobMeaney",
+					"name": "Sponge Bob Test Pants",
+					"id": 113038189,
+					"id_str": "113038189",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "AngelaRiggs_",
+					"name": "angela | Black lives matter",
+					"id": 235396478,
+					"id_str": "235396478",
+					"indices": [
+						11,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xnWV6JYldH",
+					"expanded_url": "https://www.dropbox.com/s/5zbjyp5wpm9772g/et%20definition%20history.pdf?dl=0",
+					"display_url": "dropbox.com/s/5zbjyp5wpm97…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1305636391351586800,
+		"in_reply_to_status_id_str": "1305636391351586816",
+		"in_reply_to_user_id": 20374904,
+		"in_reply_to_user_id_str": "20374904",
+		"in_reply_to_screen_name": "jamesmarcusbach",
+		"user": {
+			"id": 20374904,
+			"id_str": "20374904",
+			"name": "James Marcus Bach",
+			"screen_name": "jamesmarcusbach",
+			"location": "Eastsound, WA",
+			"description": "I teach and practice critical thinking about technology. Creator of Rapid Software Testing methodology.",
+			"url": "http://t.co/XIOloPxBNj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XIOloPxBNj",
+							"expanded_url": "http://www.satisfice.com",
+							"display_url": "satisfice.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17881,
+			"friends_count": 121,
+			"listed_count": 708,
+			"created_at": "Sun Feb 08 16:20:28 +0000 2009",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2899074042/f17c85013df3752385e1e26c917a8a42_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2899074042/f17c85013df3752385e1e26c917a8a42_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20374904/1557282453",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@RobMeaney @AngelaRiggs_ Nuts, that was an earlier document. Here is the correct version: https://t.co/xnWV6JYldH"
+	},
+	{
 		"created_at": "Sun Sep 13 14:19:31 +0000 2020",
 		"id": 1305149112816291800,
 		"id_str": "1305149112816291840",
