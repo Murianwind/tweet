@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 18 20:33:25 +0000 2020",
+		"id": 1328991727932280800,
+		"id_str": "1329160807590969344",
+		"full_text": "🔗 On Exactitude in Technical Debt (by @KevlinHenney)\nhttps://t.co/AvI3TFUrb6\n#programming",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "programming",
+					"indices": [
+						77,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KevlinHenney",
+					"name": "Kevlin Henney",
+					"id": 47378354,
+					"id_str": "47378354",
+					"indices": [
+						38,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AvI3TFUrb6",
+					"expanded_url": "https://www.oreilly.com/radar/on-exactitude-in-technical-debt/",
+					"display_url": "oreilly.com/radar/on-exact…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://murze.be\" rel=\"nofollow\">murze.be rss tweets</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97178022,
+			"id_str": "97178022",
+			"name": "Freek Van der Herten 🐘",
+			"screen_name": "freekmurze",
+			"location": "Antwerp, Belgium",
+			"description": "PHP developer and package creator at @spatie_be, built @getmailcoach, blogging at https://t.co/aqUZuLAWdB, organising @fullstackeu, running @ohdearapp and @flareappio",
+			"url": "https://t.co/1YqsQ2exmj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1YqsQ2exmj",
+							"expanded_url": "https://freek.dev",
+							"display_url": "freek.dev",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aqUZuLAWdB",
+							"expanded_url": "http://freek.dev",
+							"display_url": "freek.dev",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25285,
+			"friends_count": 362,
+			"listed_count": 697,
+			"created_at": "Wed Dec 16 09:56:14 +0000 2009",
+			"favourites_count": 21440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289323020021006336/Bbd_w9ts_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289323020021006336/Bbd_w9ts_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/97178022/1573113025",
+			"profile_link_color": "909090",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2C2C2C",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🔗 On Exactitude in Technical Debt (by @KevlinHenney)\nhttps://t.co/AvI3TFUrb6\n#programming"
+	},
+	{
 		"created_at": "Tue Nov 17 14:04:21 +0000 2020",
 		"id": 1328700505707614200,
 		"id_str": "1328700505707614208",
