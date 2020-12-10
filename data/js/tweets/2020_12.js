@@ -1,6 +1,152 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 05:03:01 +0000 2020",
+		"id": 1336475284447535000,
+		"id_str": "1336536809140973568",
+		"full_text": "Agile Testing Condensed Korean Edition https://t.co/LpnOXPMcFJ by Janet Gregory, Lisa Crispin and Translation by Murian Song is the featured book on the Leanpub homepage! https://t.co/7B8N7ZWvYT cc @murianwind @janetgregoryca @lisacrispin",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "murianwind",
+					"name": "Murian Song",
+					"id": 29951636,
+					"id_str": "29951636",
+					"indices": [
+						198,
+						209
+					]
+				},
+				{
+					"screen_name": "janetgregoryca",
+					"name": "Janet Gregory",
+					"id": 16692137,
+					"id_str": "16692137",
+					"indices": [
+						210,
+						225
+					]
+				},
+				{
+					"screen_name": "lisacrispin",
+					"name": "lisacrispin",
+					"id": 15171615,
+					"id_str": "15171615",
+					"indices": [
+						226,
+						238
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LpnOXPMcFJ",
+					"expanded_url": "https://leanpub.com/agiletesting-condensed-korean-edition",
+					"display_url": "leanpub.com/agiletesting-c…",
+					"indices": [
+						39,
+						62
+					]
+				},
+				{
+					"url": "https://t.co/7B8N7ZWvYT",
+					"expanded_url": "https://leanpub.com",
+					"display_url": "leanpub.com",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71357870,
+			"id_str": "71357870",
+			"name": "Leanpub",
+			"screen_name": "leanpub",
+			"location": "Victoria, British Columbia",
+			"description": "Authors, companies and universities use Leanpub to easily create, publish and sell amazing in-progress and completed ebooks and online courses.",
+			"url": "http://t.co/oZPXHNJqL7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/oZPXHNJqL7",
+							"expanded_url": "http://leanpub.com",
+							"display_url": "leanpub.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7090,
+			"friends_count": 90,
+			"listed_count": 246,
+			"created_at": "Thu Sep 03 21:00:05 +0000 2009",
+			"favourites_count": 331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/522096341728497664/Wcu4XQUw_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/522096341728497664/Wcu4XQUw_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71357870/1540615265",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Agile Testing Condensed Korean Edition https://t.co/LpnOXPMcFJ by Janet Gregory, Lisa Crispin and Translation by Murian Song is the featured book on the Leanpub homepage! https://t.co/7B8N7ZWvYT cc @murianwind @janetgregoryca @lisacrispin"
+	},
+	{
 		"created_at": "Tue Dec 08 15:33:48 +0000 2020",
 		"id": 1336333074712338400,
 		"id_str": "1336333161056243714",
