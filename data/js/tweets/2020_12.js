@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 22:22:29 +0000 2020",
+		"id": 1342183328670249000,
+		"id_str": "1342234217082544130",
+		"full_text": "The main benefit of story points #throwbackthursday #agile https://t.co/uRAxRq17gP https://t.co/SrOwOBY6tW https://t.co/ekfDp7ivR0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "throwbackthursday",
+					"indices": [
+						33,
+						51
+					]
+				},
+				{
+					"text": "agile",
+					"indices": [
+						52,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uRAxRq17gP",
+					"expanded_url": "http://bit.ly/2OAi6tV",
+					"display_url": "bit.ly/2OAi6tV",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/SrOwOBY6tW",
+					"expanded_url": "https://bit.ly/2OAi6tV",
+					"display_url": "bit.ly/2OAi6tV",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1342183324081643500,
+					"id_str": "1342183324081643520",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EqBknz9W4AA7NzL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqBknz9W4AA7NzL.jpg",
+					"url": "https://t.co/ekfDp7ivR0",
+					"display_url": "pic.twitter.com/ekfDp7ivR0",
+					"expanded_url": "https://twitter.com/mikewcohn/status/1342183328670248960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1560,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342183324081643500,
+					"id_str": "1342183324081643520",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EqBknz9W4AA7NzL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqBknz9W4AA7NzL.jpg",
+					"url": "https://t.co/ekfDp7ivR0",
+					"display_url": "pic.twitter.com/ekfDp7ivR0",
+					"expanded_url": "https://twitter.com/mikewcohn/status/1342183328670248960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1560,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55573320,
+			"id_str": "55573320",
+			"name": "Mike Cohn",
+			"screen_name": "mikewcohn",
+			"location": "Lafayette, CO",
+			"description": "I'm an agile software development consultant, trainer, author and practitioner. I blog at http://t.co/klqZO1Qk9v #MGSClasses",
+			"url": "http://t.co/aYJLyQCc6c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/aYJLyQCc6c",
+							"expanded_url": "http://www.mountaingoatsoftware.com",
+							"display_url": "mountaingoatsoftware.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/klqZO1Qk9v",
+							"expanded_url": "http://www.mountaingoatsoftware.com/blog",
+							"display_url": "mountaingoatsoftware.com/blog",
+							"indices": [
+								90,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 48761,
+			"friends_count": 204,
+			"listed_count": 1821,
+			"created_at": "Fri Jul 10 14:20:03 +0000 2009",
+			"favourites_count": 5197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4E78A0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753667616317673472/mCz4R6dl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753667616317673472/mCz4R6dl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55573320/1466711125",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The main benefit of story points #throwbackthursday #agile https://t.co/uRAxRq17gP https://t.co/SrOwOBY6tW https://t.co/ekfDp7ivR0"
+	},
+	{
+		"created_at": "Thu Dec 24 11:02:30 +0000 2020",
+		"id": 1342063095095521300,
+		"id_str": "1342063095095521281",
+		"full_text": "그래서..  레드 바이올린은 마지막에 어떻게 된걸까? &lt;레드 바이올린&gt; #WATCHAPEDIA https://t.co/8VR8q2sN42",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WATCHAPEDIA",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8VR8q2sN42",
+					"expanded_url": "https://pedia.watcha.com/ko-KR/contents/mW4aGwO",
+					"display_url": "pedia.watcha.com/ko-KR/contents…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://pedia.watcha.com\" rel=\"nofollow\">WATCHA PEDIA</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1484,
+			"friends_count": 274,
+			"listed_count": 156,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "그래서..  레드 바이올린은 마지막에 어떻게 된걸까? &lt;레드 바이올린&gt; #WATCHAPEDIA https://t.co/8VR8q2sN42"
+	},
+	{
 		"created_at": "Tue Dec 22 22:48:03 +0000 2020",
 		"id": 1341515875568898000,
 		"id_str": "1341515875568898048",
