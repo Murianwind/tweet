@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 07 23:05:21 +0000 2021",
+		"id": 1347256765377818600,
+		"id_str": "1347318435328397312",
+		"full_text": "Not everything needs to be a user story: Using FDD features #throwbackthursday #agile #Scrum https://t.co/dGqtrqXafq https://t.co/hh2JlcoGQm https://t.co/bzsxvlpcl5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "throwbackthursday",
+					"indices": [
+						60,
+						78
+					]
+				},
+				{
+					"text": "agile",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "Scrum",
+					"indices": [
+						86,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dGqtrqXafq",
+					"expanded_url": "http://bit.ly/2EyYbYw",
+					"display_url": "bit.ly/2EyYbYw",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/hh2JlcoGQm",
+					"expanded_url": "https://bit.ly/2EyYbYw",
+					"display_url": "bit.ly/2EyYbYw",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347256760395042800,
+					"id_str": "1347256760395042825",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ErJq4rCXEAk8Pmd.png",
+					"media_url_https": "https://pbs.twimg.com/media/ErJq4rCXEAk8Pmd.png",
+					"url": "https://t.co/bzsxvlpcl5",
+					"display_url": "pic.twitter.com/bzsxvlpcl5",
+					"expanded_url": "https://twitter.com/mikewcohn/status/1347256765377818626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1560,
+							"h": 816,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347256760395042800,
+					"id_str": "1347256760395042825",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ErJq4rCXEAk8Pmd.png",
+					"media_url_https": "https://pbs.twimg.com/media/ErJq4rCXEAk8Pmd.png",
+					"url": "https://t.co/bzsxvlpcl5",
+					"display_url": "pic.twitter.com/bzsxvlpcl5",
+					"expanded_url": "https://twitter.com/mikewcohn/status/1347256765377818626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1560,
+							"h": 816,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55573320,
+			"id_str": "55573320",
+			"name": "Mike Cohn",
+			"screen_name": "mikewcohn",
+			"location": "Lafayette, CO",
+			"description": "I'm an agile software development consultant, trainer, author and practitioner. I blog at http://t.co/klqZO1Qk9v #MGSClasses",
+			"url": "http://t.co/aYJLyQCc6c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/aYJLyQCc6c",
+							"expanded_url": "http://www.mountaingoatsoftware.com",
+							"display_url": "mountaingoatsoftware.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/klqZO1Qk9v",
+							"expanded_url": "http://www.mountaingoatsoftware.com/blog",
+							"display_url": "mountaingoatsoftware.com/blog",
+							"indices": [
+								90,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 48799,
+			"friends_count": 204,
+			"listed_count": 1822,
+			"created_at": "Fri Jul 10 14:20:03 +0000 2009",
+			"favourites_count": 5204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4E78A0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753667616317673472/mCz4R6dl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753667616317673472/mCz4R6dl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55573320/1466711125",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not everything needs to be a user story: Using FDD features #throwbackthursday #agile #Scrum https://t.co/dGqtrqXafq https://t.co/hh2JlcoGQm https://t.co/bzsxvlpcl5"
+	},
+	{
 		"created_at": "Wed Jan 06 15:40:10 +0000 2021",
 		"id": 1346844011181424600,
 		"id_str": "1346844011181424647",
