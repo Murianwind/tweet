@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 24 13:34:57 +0000 2022",
+		"id": 1485599780416135200,
+		"id_str": "1485607055503556609",
+		"full_text": "“우리가 마음 먹고 언론플레이하면 다 무효화된다.” - 김건희\n이런 말에 반박하려는 의지를 보이는 언론인보다, 이 말이 사실임을 기사로 입증하면서도 부끄러운 줄 모르는 언론인이 훨씬 많은 게, 이 시대의 문제입니다.\n그냥 놔두면, 미래의 문제이기도 합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155742974,
+			"id_str": "155742974",
+			"name": "전우용",
+			"screen_name": "histopian",
+			"location": "Seoul, Korea",
+			"description": "억울한 희생이 없는 시대를 기원합니다. 욕설 없는 청정 타임라인을 지향합니다. 지나치게 무식하거나 무례한 자, 글에 저질 인성을 드러내는 자들은 블록합니다. 조선일보 및 그 계열사들의 전문 또는 발췌 인용을 엄금합니다.",
+			"url": "https://t.co/C3UIKDOm7S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C3UIKDOm7S",
+							"expanded_url": "http://koreantweeters.com/histopian",
+							"display_url": "koreantweeters.com/histopian",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 442783,
+			"friends_count": 364,
+			"listed_count": 2180,
+			"created_at": "Tue Jun 15 00:04:50 +0000 2010",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "15122D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096333119567781888/-wbL5tvn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096333119567781888/-wbL5tvn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155742974/1559049540",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FDD1AE",
+			"profile_sidebar_fill_color": "CC8068",
+			"profile_text_color": "90716E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 777,
+		"favorite_count": 1295,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "“우리가 마음 먹고 언론플레이하면 다 무효화된다.” - 김건희\n이런 말에 반박하려는 의지를 보이는 언론인보다, 이 말이 사실임을 기사로 입증하면서도 부끄러운 줄 모르는 언론인이 훨씬 많은 게, 이 시대의 문제입니다.\n그냥 놔두면, 미래의 문제이기도 합니다."
+	},
+	{
 		"created_at": "Sun Jan 23 09:59:07 +0000 2022",
 		"id": 1485190351480844300,
 		"id_str": "1485190351480844295",
