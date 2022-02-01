@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 31 23:18:18 +0000 2022",
+		"id": 1488229250511507500,
+		"id_str": "1488290571898613760",
+		"full_text": "I made a big mistake when I called them \"iterations\". I should have just said, \"weeks\". Then the whole iteration length debate, where there are weird incentives encouraging too-long feedback cycles, would just be absurd.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16891384,
+			"id_str": "16891384",
+			"name": "Kent Beck",
+			"screen_name": "KentBeck",
+			"location": "San Francisco, CA",
+			"description": "Programmer, coach coach, singer/guitarist, peripatetic. Learning to be me. Works at @GustoHQ.",
+			"url": "https://t.co/ydT55rxvQ1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ydT55rxvQ1",
+							"expanded_url": "http://www.kentbeck.com",
+							"display_url": "kentbeck.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175934,
+			"friends_count": 771,
+			"listed_count": 5329,
+			"created_at": "Tue Oct 21 18:56:26 +0000 2008",
+			"favourites_count": 20383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1457857343568244742/FVQ4hpRx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457857343568244742/FVQ4hpRx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16891384/1589119863",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 426,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I made a big mistake when I called them \"iterations\". I should have just said, \"weeks\". Then the whole iteration length debate, where there are weird incentives encouraging too-long feedback cycles, would just be absurd."
+	},
+	{
 		"created_at": "Sat Jan 29 23:25:02 +0000 2022",
 		"id": 1487567493774606300,
 		"id_str": "1487567493774606337",
