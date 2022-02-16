@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 10:58:19 +0000 2022",
+		"id": 1493501659892252700,
+		"id_str": "1493540168900308995",
+		"full_text": "개 모양 로봇을 뒤집은 걸 두고는 ’감정이입‘ 못하는 사이코패스니 소시오패스니 비난하던 자들이, 소를 산 채로 가죽 벗기는 사이비 종교 행사장에 연등 단 부부를 두고는 훌륭한 대통령감이자 영부인감이랍니다.\n\n소도, 저런 자들을 ’사람‘으로 보지 않을 겁니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155742974,
+			"id_str": "155742974",
+			"name": "전우용",
+			"screen_name": "histopian",
+			"location": "Seoul, Korea",
+			"description": "억울한 희생이 없는 시대를 기원합니다. 욕설 없는 청정 타임라인을 지향합니다. 지나치게 무식하거나 무례한 자, 글에 저질 인성을 드러내는 자들은 블록합니다. 조선일보 및 그 계열사들의 전문 또는 발췌 인용을 엄금합니다.",
+			"url": "https://t.co/C3UIKDOm7S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C3UIKDOm7S",
+							"expanded_url": "http://koreantweeters.com/histopian",
+							"display_url": "koreantweeters.com/histopian",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 444755,
+			"friends_count": 360,
+			"listed_count": 2181,
+			"created_at": "Tue Jun 15 00:04:50 +0000 2010",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "15122D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096333119567781888/-wbL5tvn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096333119567781888/-wbL5tvn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155742974/1559049540",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FDD1AE",
+			"profile_sidebar_fill_color": "CC8068",
+			"profile_text_color": "90716E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1269,
+		"favorite_count": 2072,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "개 모양 로봇을 뒤집은 걸 두고는 ’감정이입‘ 못하는 사이코패스니 소시오패스니 비난하던 자들이, 소를 산 채로 가죽 벗기는 사이비 종교 행사장에 연등 단 부부를 두고는 훌륭한 대통령감이자 영부인감이랍니다.\n\n소도, 저런 자들을 ’사람‘으로 보지 않을 겁니다."
+	},
+	{
 		"created_at": "Thu Feb 10 06:34:52 +0000 2022",
 		"id": 1491661931232792600,
 		"id_str": "1491661931232792576",
