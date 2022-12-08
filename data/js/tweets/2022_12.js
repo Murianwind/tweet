@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 07 05:19:25 +0000 2022",
+		"id": 1600357463089258500,
+		"id_str": "1600359301365002241",
+		"full_text": "“전에는 우리 사회가 진보와 보수로 나뉘는 줄 알았는데, 세월호를 겪고 보니 인간과 짐승으로 나뉘더라.” \n세월호 참사 직후 어떤 분이 sns에 썼던 글입니다.\n그로부터 8년. 지금 우리나라 사람들의 평균적 인성은 그때보다 나아졌을까요? \n질문하는 것조차 부끄럽습니다.\nhttps://t.co/QSNgA55k9K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QSNgA55k9K",
+					"expanded_url": "https://www.thecolumnist.kr/news/articleView.html?idxno=1671",
+					"display_url": "thecolumnist.kr/news/articleVi…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155742974,
+			"id_str": "155742974",
+			"name": "전우용",
+			"screen_name": "histopian",
+			"location": "Seoul, Korea",
+			"description": "억울한 희생이 없는 시대를 기원합니다. 욕설 없는 청정 타임라인을 지향합니다. 지나치게 무식하거나 무례한 자, 글에 저질 인성을 드러내는 자들은 블록합니다. 조선일보 및 그 계열사들의 전문 또는 발췌 인용을 엄금합니다.",
+			"url": "https://t.co/C3UIKDOm7S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C3UIKDOm7S",
+							"expanded_url": "http://koreantweeters.com/histopian",
+							"display_url": "koreantweeters.com/histopian",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449609,
+			"friends_count": 341,
+			"listed_count": 2120,
+			"created_at": "Tue Jun 15 00:04:50 +0000 2010",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "15122D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096333119567781888/-wbL5tvn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096333119567781888/-wbL5tvn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155742974/1559049540",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FDD1AE",
+			"profile_sidebar_fill_color": "CC8068",
+			"profile_text_color": "90716E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 848,
+		"favorite_count": 1427,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“전에는 우리 사회가 진보와 보수로 나뉘는 줄 알았는데, 세월호를 겪고 보니 인간과 짐승으로 나뉘더라.” \n세월호 참사 직후 어떤 분이 sns에 썼던 글입니다.\n그로부터 8년. 지금 우리나라 사람들의 평균적 인성은 그때보다 나아졌을까요? \n질문하는 것조차 부끄럽습니다.\nhttps://t.co/QSNgA55k9K"
+	},
+	{
 		"created_at": "Tue Dec 06 21:41:38 +0000 2022",
 		"id": 1600244096395681800,
 		"id_str": "1600244096395681792",
