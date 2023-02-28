@@ -1,6 +1,861 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 27 00:52:32 +0000 2023",
+		"id": 1630007945286262800,
+		"id_str": "1630007945286262785",
+		"full_text": "내 아이에게 그런 마음을 물려줄 수 있는 부모가 되기 위해 더 노력해야겠습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1630007943663083500,
+		"in_reply_to_status_id_str": "1630007943663083521",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1421,
+			"friends_count": 268,
+			"listed_count": 147,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "내 아이에게 그런 마음을 물려줄 수 있는 부모가 되기 위해 더 노력해야겠습니다."
+	},
+	{
+		"created_at": "Mon Feb 27 00:52:32 +0000 2023",
+		"id": 1630007943663083500,
+		"id_str": "1630007943663083521",
+		"full_text": "시간이 지나도 다시 볼 수 있을 것 같네요.. 안나라수마나라 드라마 한번 보세요.. 아주 재미있지는 않지만.. 정말 응원하고 싶은 마음이 듭니다. \n\n내게도 마술 같은 일이 일어나면 좋겠네요..\n\n내 아이도 세상에서 웃으며 살아가는 마술을 믿는 마음이 자라면 좋겠네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1630007942094397400,
+		"in_reply_to_status_id_str": "1630007942094397440",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1421,
+			"friends_count": 268,
+			"listed_count": 147,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "시간이 지나도 다시 볼 수 있을 것 같네요.. 안나라수마나라 드라마 한번 보세요.. 아주 재미있지는 않지만.. 정말 응원하고 싶은 마음이 듭니다. \n\n내게도 마술 같은 일이 일어나면 좋겠네요..\n\n내 아이도 세상에서 웃으며 살아가는 마술을 믿는 마음이 자라면 좋겠네요."
+	},
+	{
+		"created_at": "Mon Feb 27 00:52:32 +0000 2023",
+		"id": 1630007942094397400,
+		"id_str": "1630007942094397440",
+		"full_text": "정말 마술 처럼 세상을 밝게 바라보고 웃을 수 있으면 좋겠더라구요. \n\n힘들고 팍팍한 세상에 마술을 믿게 만든 어른이 되어주고 싶은데.. \n\n그냥 드라마 하나 보고 이제는 나이가 갱년기에 들어가는건지.. 그냥 월요일부터 마음이 싱숭생숭하네요..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1630007940475420700,
+		"in_reply_to_status_id_str": "1630007940475420673",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1421,
+			"friends_count": 268,
+			"listed_count": 147,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "정말 마술 처럼 세상을 밝게 바라보고 웃을 수 있으면 좋겠더라구요. \n\n힘들고 팍팍한 세상에 마술을 믿게 만든 어른이 되어주고 싶은데.. \n\n그냥 드라마 하나 보고 이제는 나이가 갱년기에 들어가는건지.. 그냥 월요일부터 마음이 싱숭생숭하네요.."
+	},
+	{
+		"created_at": "Mon Feb 27 00:52:31 +0000 2023",
+		"id": 1630007940475420700,
+		"id_str": "1630007940475420673",
+		"full_text": "그래도 일등이는 알에서 깨어나 아스파트 길을 벗어나 꽃 하나 피우겠다고 흙길을 걸어가겠다고 했지만..\n\n우리는 우리 아이들이 그런 선택을 할 때 과연 지지해줄 수 있을까요?\n\n우리는 아이들에게 건강한 사회와 건강한 생각을 물려주고 있는걸까요?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1630007938902548500,
+		"in_reply_to_status_id_str": "1630007938902548480",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1421,
+			"friends_count": 268,
+			"listed_count": 147,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그래도 일등이는 알에서 깨어나 아스파트 길을 벗어나 꽃 하나 피우겠다고 흙길을 걸어가겠다고 했지만..\n\n우리는 우리 아이들이 그런 선택을 할 때 과연 지지해줄 수 있을까요?\n\n우리는 아이들에게 건강한 사회와 건강한 생각을 물려주고 있는걸까요?"
+	},
+	{
+		"created_at": "Mon Feb 27 00:52:31 +0000 2023",
+		"id": 1630007938902548500,
+		"id_str": "1630007938902548480",
+		"full_text": "그래서 부모가 중요합니다. 정 모시기 양반의 아들 녀석 학폭의 심각성은 그 아들 녀석보다는 정 모시기.. 그 부모입니다. \n\n안나라수마나라에서 전 실제 주인공은 검사장의 아들 일등이라고 생각합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1630007937266761700,
+		"in_reply_to_status_id_str": "1630007937266761728",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1421,
+			"friends_count": 268,
+			"listed_count": 147,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그래서 부모가 중요합니다. 정 모시기 양반의 아들 녀석 학폭의 심각성은 그 아들 녀석보다는 정 모시기.. 그 부모입니다. \n\n안나라수마나라에서 전 실제 주인공은 검사장의 아들 일등이라고 생각합니다."
+	},
+	{
+		"created_at": "Mon Feb 27 00:52:30 +0000 2023",
+		"id": 1630007937266761700,
+		"id_str": "1630007937266761728",
+		"full_text": "학폭의 가해자도 피해자도 정말 종이 한 장 차이라는 겁니다.\n\n제 아들이 지금은 피해자이지만.. 언제든 가해자가 될 수 있다는 것입니다.\n\n그만큼 아이들든 자신이 학폭의 가해자인것을 크게 느끼지 못하더라구요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1630007935702278100,
+		"in_reply_to_status_id_str": "1630007935702278144",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1421,
+			"friends_count": 268,
+			"listed_count": 147,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "학폭의 가해자도 피해자도 정말 종이 한 장 차이라는 겁니다.\n\n제 아들이 지금은 피해자이지만.. 언제든 가해자가 될 수 있다는 것입니다.\n\n그만큼 아이들든 자신이 학폭의 가해자인것을 크게 느끼지 못하더라구요."
+	},
+	{
+		"created_at": "Mon Feb 27 00:52:30 +0000 2023",
+		"id": 1630007935702278100,
+		"id_str": "1630007935702278144",
+		"full_text": "제 아들도 학폭의 피해자였습니다. 학폭위도 열어봤고.. 교육청에 가서 처분도 받아봤습니다. 정신과 상담도 받아봤습니다.\n\n사실 저보다는 아이 엄마가 더 고생을 했습니다.\n\n그런데, 아들의 학폭 사건을 보며 드는 무서움은 전 다른 것이었습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1630007934162964500,
+		"in_reply_to_status_id_str": "1630007934162964480",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1421,
+			"friends_count": 268,
+			"listed_count": 147,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "제 아들도 학폭의 피해자였습니다. 학폭위도 열어봤고.. 교육청에 가서 처분도 받아봤습니다. 정신과 상담도 받아봤습니다.\n\n사실 저보다는 아이 엄마가 더 고생을 했습니다.\n\n그런데, 아들의 학폭 사건을 보며 드는 무서움은 전 다른 것이었습니다."
+	},
+	{
+		"created_at": "Mon Feb 27 00:52:30 +0000 2023",
+		"id": 1630007934162964500,
+		"id_str": "1630007934162964480",
+		"full_text": "검사 출신 정모시기 아들... 요즘 학폭으로 아주 따끈 따끈하더군요..\n\n하지만, 뭐... 이번주면 다들 그런 일은 잊어버리고 그냥 다들 아무 일도 없던 듯이 살아가겠죠..\n\n이 드라마를 보며.. 그 정 모시기의 아들이 떠올랐습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1630007932569129000,
+		"in_reply_to_status_id_str": "1630007932569128960",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1421,
+			"friends_count": 268,
+			"listed_count": 147,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "검사 출신 정모시기 아들... 요즘 학폭으로 아주 따끈 따끈하더군요..\n\n하지만, 뭐... 이번주면 다들 그런 일은 잊어버리고 그냥 다들 아무 일도 없던 듯이 살아가겠죠..\n\n이 드라마를 보며.. 그 정 모시기의 아들이 떠올랐습니다."
+	},
+	{
+		"created_at": "Mon Feb 27 00:52:29 +0000 2023",
+		"id": 1630007932569129000,
+		"id_str": "1630007932569128960",
+		"full_text": "드라마의 완성도는 아주 높지는 않지만.. 적어도 한국도 이런 드라마를 만들 수 있다는게..\n\n그리고 좀 어설퍼도.. 드라마의 이야기가 정말 매력적이었습니다.\n\n드라마를 보면서 문득 요즘 핫하게 뜨고 있는 한 사람이 떠올랐습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1630007930878849000,
+		"in_reply_to_status_id_str": "1630007930878849024",
+		"in_reply_to_user_id": 29951636,
+		"in_reply_to_user_id_str": "29951636",
+		"in_reply_to_screen_name": "murianwind",
+		"user": {
+			"id": 29951636,
+			"id_str": "29951636",
+			"name": "Murian Song",
+			"screen_name": "murianwind",
+			"location": "Dokdo, Korea",
+			"description": "Korea's first Testing evangelist, Testing process improvement consultant, TOC evangelist, Rapid Testing, User Testing",
+			"url": "http://t.co/51S44z8ELu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/51S44z8ELu",
+							"expanded_url": "http://murianwind.blogspot.com",
+							"display_url": "murianwind.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1421,
+			"friends_count": 268,
+			"listed_count": 147,
+			"created_at": "Thu Apr 09 09:15:28 +0000 2009",
+			"favourites_count": 1642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788229921/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "드라마의 완성도는 아주 높지는 않지만.. 적어도 한국도 이런 드라마를 만들 수 있다는게..\n\n그리고 좀 어설퍼도.. 드라마의 이야기가 정말 매력적이었습니다.\n\n드라마를 보면서 문득 요즘 핫하게 뜨고 있는 한 사람이 떠올랐습니다."
+	},
+	{
 		"created_at": "Tue Feb 14 21:55:41 +0000 2023",
 		"id": 1625614784258506800,
 		"id_str": "1625614784258506752",
